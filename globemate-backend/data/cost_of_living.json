@@ -1,0 +1,4290 @@
+[
+  {
+    "city": "Hamilton",
+    "country": "Bermuda",
+    "Cost_of_Living_and_Rent_Index": 121.21,
+    "groceries": 126.56,
+    "restaurant": 151.77,
+    "Local_purchasing": 114.19
+  },
+  {
+    "city": "Zurich",
+    "country": "Switzerland",
+    "Cost_of_Living_and_Rent_Index": 97.39,
+    "groceries": 127.35,
+    "restaurant": 127.14,
+    "Local_purchasing": 142.39
+  },
+  {
+    "city": "Basel",
+    "country": "Switzerland",
+    "Cost_of_Living_and_Rent_Index": 88.66,
+    "groceries": 120.44,
+    "restaurant": 129.1,
+    "Local_purchasing": 141.48
+  },
+  {
+    "city": "Lausanne",
+    "country": "Switzerland",
+    "Cost_of_Living_and_Rent_Index": 86.83,
+    "groceries": 116.35,
+    "restaurant": 122.83,
+    "Local_purchasing": 132.58
+  },
+  {
+    "city": "Bern",
+    "country": "Switzerland",
+    "Cost_of_Living_and_Rent_Index": 80.93,
+    "groceries": 114.54,
+    "restaurant": 114.86,
+    "Local_purchasing": 115.48
+  },
+  {
+    "city": "Geneva",
+    "country": "Switzerland",
+    "Cost_of_Living_and_Rent_Index": 95.06,
+    "groceries": 112.08,
+    "restaurant": 119.78,
+    "Local_purchasing": 133.47
+  },
+  {
+    "city": "Reykjavik",
+    "country": "Iceland",
+    "Cost_of_Living_and_Rent_Index": 86.45,
+    "groceries": 98.53,
+    "restaurant": 127.87,
+    "Local_purchasing": 94.21
+  },
+  {
+    "city": "Lugano",
+    "country": "Switzerland",
+    "Cost_of_Living_and_Rent_Index": 82.39,
+    "groceries": 104.85,
+    "restaurant": 120.62,
+    "Local_purchasing": 131.26
+  },
+  {
+    "city": "Stavanger",
+    "country": "Norway",
+    "Cost_of_Living_and_Rent_Index": 76.85,
+    "groceries": 95.97,
+    "restaurant": 134.55,
+    "Local_purchasing": 112.62
+  },
+  {
+    "city": "Oslo",
+    "country": "Norway",
+    "Cost_of_Living_and_Rent_Index": 79.42,
+    "groceries": 93.81,
+    "restaurant": 114.42,
+    "Local_purchasing": 104.3
+  },
+  {
+    "city": "Bergen",
+    "country": "Norway",
+    "Cost_of_Living_and_Rent_Index": 72.82,
+    "groceries": 87.02,
+    "restaurant": 116.35,
+    "Local_purchasing": 108.19
+  },
+  {
+    "city": "New York",
+    "country": "NY",
+    "Cost_of_Living_and_Rent_Index": 100,
+    "groceries": 100,
+    "restaurant": 100,
+    "Local_purchasing": 100
+  },
+  {
+    "city": "Trondheim",
+    "country": "Norway",
+    "Cost_of_Living_and_Rent_Index": 71.39,
+    "groceries": 82.31,
+    "restaurant": 120.45,
+    "Local_purchasing": 113.08
+  },
+  {
+    "city": "San Francisco",
+    "country": "CA",
+    "Cost_of_Living_and_Rent_Index": 101.43,
+    "groceries": 101.93,
+    "restaurant": 94.58,
+    "Local_purchasing": 125.95
+  },
+  {
+    "city": "Honolulu",
+    "country": "HI",
+    "Cost_of_Living_and_Rent_Index": 79.63,
+    "groceries": 96.32,
+    "restaurant": 86.72,
+    "Local_purchasing": 113.58
+  },
+  {
+    "city": "Anchorage",
+    "country": "AK",
+    "Cost_of_Living_and_Rent_Index": 67.75,
+    "groceries": 96.74,
+    "restaurant": 78.76,
+    "Local_purchasing": 138.38
+  },
+  {
+    "city": "Brooklyn",
+    "country": "NY",
+    "Cost_of_Living_and_Rent_Index": 85.91,
+    "groceries": 83.16,
+    "restaurant": 95.27,
+    "Local_purchasing": 87.05
+  },
+  {
+    "city": "Washington",
+    "country": "DC",
+    "Cost_of_Living_and_Rent_Index": 79.87,
+    "groceries": 86.63,
+    "restaurant": 86.23,
+    "Local_purchasing": 131.53
+  },
+  {
+    "city": "Santa Rosa",
+    "country": "CA",
+    "Cost_of_Living_and_Rent_Index": 73.32,
+    "groceries": 84.35,
+    "restaurant": 82.55,
+    "Local_purchasing": 116.47
+  },
+  {
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "Cost_of_Living_and_Rent_Index": 68.94,
+    "groceries": 64.59,
+    "restaurant": 113.18,
+    "Local_purchasing": 114.05
+  },
+  {
+    "city": "Charleston",
+    "country": "SC",
+    "Cost_of_Living_and_Rent_Index": 67.58,
+    "groceries": 90.86,
+    "restaurant": 73.48,
+    "Local_purchasing": 106.06
+  },
+  {
+    "city": "Luxembourg",
+    "country": "Luxembourg",
+    "Cost_of_Living_and_Rent_Index": 74.76,
+    "groceries": 70.75,
+    "restaurant": 99.49,
+    "Local_purchasing": 120.25
+  },
+  {
+    "city": "Bellevue",
+    "country": "WA",
+    "Cost_of_Living_and_Rent_Index": 74.24,
+    "groceries": 78.24,
+    "restaurant": 82.29,
+    "Local_purchasing": 186
+  },
+  {
+    "city": "Seattle",
+    "country": "WA",
+    "Cost_of_Living_and_Rent_Index": 75.66,
+    "groceries": 83.72,
+    "restaurant": 80.27,
+    "Local_purchasing": 140
+  },
+  {
+    "city": "Tokyo",
+    "country": "Japan",
+    "Cost_of_Living_and_Rent_Index": 61.89,
+    "groceries": 81.72,
+    "restaurant": 54.41,
+    "Local_purchasing": 113.09
+  },
+  {
+    "city": "Paris",
+    "country": "France",
+    "Cost_of_Living_and_Rent_Index": 67.13,
+    "groceries": 73.77,
+    "restaurant": 88.11,
+    "Local_purchasing": 95.38
+  },
+  {
+    "city": "Odense",
+    "country": "Denmark",
+    "Cost_of_Living_and_Rent_Index": 55.32,
+    "groceries": 65.29,
+    "restaurant": 112.9,
+    "Local_purchasing": 114.26
+  },
+  {
+    "city": "Berkeley",
+    "country": "CA",
+    "Cost_of_Living_and_Rent_Index": 80.45,
+    "groceries": 81.99,
+    "restaurant": 87.6,
+    "Local_purchasing": 119.03
+  },
+  {
+    "city": "Jersey City",
+    "country": "NJ",
+    "Cost_of_Living_and_Rent_Index": 73.43,
+    "groceries": 86.08,
+    "restaurant": 81.44,
+    "Local_purchasing": 120.46
+  },
+  {
+    "city": "Aalborg",
+    "country": "Denmark",
+    "Cost_of_Living_and_Rent_Index": 55.09,
+    "groceries": 62.32,
+    "restaurant": 97.34,
+    "Local_purchasing": 113.36
+  },
+  {
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "Cost_of_Living_and_Rent_Index": 69.13,
+    "groceries": 62.35,
+    "restaurant": 87.71,
+    "Local_purchasing": 98.88
+  },
+  {
+    "city": "Seoul",
+    "country": "South Korea",
+    "Cost_of_Living_and_Rent_Index": 58.79,
+    "groceries": 93.57,
+    "restaurant": 50.34,
+    "Local_purchasing": 102.63
+  },
+  {
+    "city": "Arhus",
+    "country": "Denmark",
+    "Cost_of_Living_and_Rent_Index": 58.16,
+    "groceries": 61.47,
+    "restaurant": 95.15,
+    "Local_purchasing": 116.8
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "Cost_of_Living_and_Rent_Index": 76.1,
+    "groceries": 57.74,
+    "restaurant": 91.85,
+    "Local_purchasing": 100.22
+  },
+  {
+    "city": "Oakland",
+    "country": "CA",
+    "Cost_of_Living_and_Rent_Index": 79.27,
+    "groceries": 77.54,
+    "restaurant": 78.55,
+    "Local_purchasing": 137.74
+  },
+  {
+    "city": "Helsinki",
+    "country": "Finland",
+    "Cost_of_Living_and_Rent_Index": 59.34,
+    "groceries": 61.31,
+    "restaurant": 94.99,
+    "Local_purchasing": 108.83
+  },
+  {
+    "city": "Boston",
+    "country": "MA",
+    "Cost_of_Living_and_Rent_Index": 78.39,
+    "groceries": 75.71,
+    "restaurant": 83.08,
+    "Local_purchasing": 124.57
+  },
+  {
+    "city": "Singapore",
+    "country": "Singapore",
+    "Cost_of_Living_and_Rent_Index": 70.92,
+    "groceries": 66.82,
+    "restaurant": 59.4,
+    "Local_purchasing": 99.15
+  },
+  {
+    "city": "Dublin",
+    "country": "Ireland",
+    "Cost_of_Living_and_Rent_Index": 70.73,
+    "groceries": 60.82,
+    "restaurant": 87.98,
+    "Local_purchasing": 89.32
+  },
+  {
+    "city": "Sydney",
+    "country": "Australia",
+    "Cost_of_Living_and_Rent_Index": 71.72,
+    "groceries": 68.63,
+    "restaurant": 69.34,
+    "Local_purchasing": 128.25
+  },
+  {
+    "city": "Hartford",
+    "country": "CT",
+    "Cost_of_Living_and_Rent_Index": 61.73,
+    "groceries": 83.41,
+    "restaurant": 72.82,
+    "Local_purchasing": 84.71
+  },
+  {
+    "city": "Albany",
+    "country": "NY",
+    "Cost_of_Living_and_Rent_Index": 56.48,
+    "groceries": 77.5,
+    "restaurant": 77.64,
+    "Local_purchasing": 108.77
+  },
+  {
+    "city": "Philadelphia",
+    "country": "PA",
+    "Cost_of_Living_and_Rent_Index": 65.1,
+    "groceries": 74.58,
+    "restaurant": 74.75,
+    "Local_purchasing": 109.34
+  },
+  {
+    "city": "Tampere",
+    "country": "Finland",
+    "Cost_of_Living_and_Rent_Index": 54.03,
+    "groceries": 68.46,
+    "restaurant": 79.47,
+    "Local_purchasing": 114.89
+  },
+  {
+    "city": "Milton Keynes",
+    "country": "United Kingdom",
+    "Cost_of_Living_and_Rent_Index": 57.65,
+    "groceries": 71.63,
+    "restaurant": 78.53,
+    "Local_purchasing": 93.47
+  },
+  {
+    "city": "Grenoble",
+    "country": "France",
+    "Cost_of_Living_and_Rent_Index": 52.35,
+    "groceries": 73.56,
+    "restaurant": 72.47,
+    "Local_purchasing": 108.39
+  },
+  {
+    "city": "Irvine",
+    "country": "CA",
+    "Cost_of_Living_and_Rent_Index": 72.4,
+    "groceries": 73.87,
+    "restaurant": 73.72,
+    "Local_purchasing": 135.16
+  },
+  {
+    "city": "Lyon",
+    "country": "France",
+    "Cost_of_Living_and_Rent_Index": 54.02,
+    "groceries": 69.55,
+    "restaurant": 72.77,
+    "Local_purchasing": 96.07
+  },
+  {
+    "city": "Long Beach",
+    "country": "CA",
+    "Cost_of_Living_and_Rent_Index": 67.17,
+    "groceries": 74.93,
+    "restaurant": 77.97,
+    "Local_purchasing": 128.82
+  },
+  {
+    "city": "Linz",
+    "country": "Austria",
+    "Cost_of_Living_and_Rent_Index": 53.59,
+    "groceries": 67.39,
+    "restaurant": 80.73,
+    "Local_purchasing": 99.34
+  },
+  {
+    "city": "Los Angeles",
+    "country": "CA",
+    "Cost_of_Living_and_Rent_Index": 74.25,
+    "groceries": 71.59,
+    "restaurant": 81.71,
+    "Local_purchasing": 114.51
+  },
+  {
+    "city": "Tel Aviv-Yafo",
+    "country": "Israel",
+    "Cost_of_Living_and_Rent_Index": 59.96,
+    "groceries": 62.34,
+    "restaurant": 85.86,
+    "Local_purchasing": 93.67
+  },
+  {
+    "city": "Barrie",
+    "country": "Canada",
+    "Cost_of_Living_and_Rent_Index": 54.51,
+    "groceries": 73.87,
+    "restaurant": 83.57,
+    "Local_purchasing": 99.44
+  },
+  {
+    "city": "Chicago",
+    "country": "IL",
+    "Cost_of_Living_and_Rent_Index": 67.01,
+    "groceries": 70.69,
+    "restaurant": 78.52,
+    "Local_purchasing": 133.7
+  },
+  {
+    "city": "Stockholm",
+    "country": "Sweden",
+    "Cost_of_Living_and_Rent_Index": 59.69,
+    "groceries": 64.74,
+    "restaurant": 85.51,
+    "Local_purchasing": 115.83
+  },
+  {
+    "city": "Florence",
+    "country": "Italy",
+    "Cost_of_Living_and_Rent_Index": 54.42,
+    "groceries": 63.1,
+    "restaurant": 88.19,
+    "Local_purchasing": 70.47
+  },
+  {
+    "city": "Boulder",
+    "country": "CO",
+    "Cost_of_Living_and_Rent_Index": 65.98,
+    "groceries": 76.79,
+    "restaurant": 68.35,
+    "Local_purchasing": 112.76
+  },
+  {
+    "city": "The Hague (Den Haag)",
+    "country": "Netherlands",
+    "Cost_of_Living_and_Rent_Index": 57.36,
+    "groceries": 58.82,
+    "restaurant": 84.91,
+    "Local_purchasing": 102.3
+  },
+  {
+    "city": "Reading",
+    "country": "United Kingdom",
+    "Cost_of_Living_and_Rent_Index": 58.92,
+    "groceries": 63.73,
+    "restaurant": 84.93,
+    "Local_purchasing": 125.69
+  },
+  {
+    "city": "Auckland",
+    "country": "New Zealand",
+    "Cost_of_Living_and_Rent_Index": 60.67,
+    "groceries": 66.39,
+    "restaurant": 65.02,
+    "Local_purchasing": 103.52
+  },
+  {
+    "city": "Jerusalem",
+    "country": "Israel",
+    "Cost_of_Living_and_Rent_Index": 56.6,
+    "groceries": 60.65,
+    "restaurant": 85.41,
+    "Local_purchasing": 85.39
+  },
+  {
+    "city": "Bordeaux",
+    "country": "France",
+    "Cost_of_Living_and_Rent_Index": 52.54,
+    "groceries": 67.34,
+    "restaurant": 77.6,
+    "Local_purchasing": 83.45
+  },
+  {
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "Cost_of_Living_and_Rent_Index": 57.92,
+    "groceries": 58.34,
+    "restaurant": 88.94,
+    "Local_purchasing": 103.12
+  },
+  {
+    "city": "Toulouse",
+    "country": "France",
+    "Cost_of_Living_and_Rent_Index": 51.09,
+    "groceries": 66.45,
+    "restaurant": 74.72,
+    "Local_purchasing": 105.57
+  },
+  {
+    "city": "San Jose",
+    "country": "CA",
+    "Cost_of_Living_and_Rent_Index": 76.43,
+    "groceries": 71.1,
+    "restaurant": 83.14,
+    "Local_purchasing": 170.91
+  },
+  {
+    "city": "Burlington",
+    "country": "VT",
+    "Cost_of_Living_and_Rent_Index": 59.87,
+    "groceries": 73.17,
+    "restaurant": 78.69,
+    "Local_purchasing": 76.97
+  },
+  {
+    "city": "Pittsburgh",
+    "country": "PA",
+    "Cost_of_Living_and_Rent_Index": 58.15,
+    "groceries": 71.89,
+    "restaurant": 66.74,
+    "Local_purchasing": 114.28
+  },
+  {
+    "city": "Nice",
+    "country": "France",
+    "Cost_of_Living_and_Rent_Index": 54.03,
+    "groceries": 69.04,
+    "restaurant": 84.7,
+    "Local_purchasing": 112.81
+  },
+  {
+    "city": "Miami",
+    "country": "FL",
+    "Cost_of_Living_and_Rent_Index": 67.3,
+    "groceries": 67.27,
+    "restaurant": 81.89,
+    "Local_purchasing": 89.99
+  },
+  {
+    "city": "Brussels",
+    "country": "Belgium",
+    "Cost_of_Living_and_Rent_Index": 55.02,
+    "groceries": 63.45,
+    "restaurant": 87.07,
+    "Local_purchasing": 100.24
+  },
+  {
+    "city": "Graz",
+    "country": "Austria",
+    "Cost_of_Living_and_Rent_Index": 50.82,
+    "groceries": 71.92,
+    "restaurant": 60.92,
+    "Local_purchasing": 100.33
+  },
+  {
+    "city": "Santa Barbara",
+    "country": "CA",
+    "Cost_of_Living_and_Rent_Index": 72.29,
+    "groceries": 67.52,
+    "restaurant": 91.99,
+    "Local_purchasing": 124.41
+  },
+  {
+    "city": "Sacramento",
+    "country": "CA",
+    "Cost_of_Living_and_Rent_Index": 60.75,
+    "groceries": 69.09,
+    "restaurant": 77.91,
+    "Local_purchasing": 145.88
+  },
+  {
+    "city": "Strasbourg",
+    "country": "France",
+    "Cost_of_Living_and_Rent_Index": 50.64,
+    "groceries": 65.79,
+    "restaurant": 75.8,
+    "Local_purchasing": 100.44
+  },
+  {
+    "city": "Genoa",
+    "country": "Italy",
+    "Cost_of_Living_and_Rent_Index": 49.17,
+    "groceries": 63.25,
+    "restaurant": 77.18,
+    "Local_purchasing": 77.62
+  },
+  {
+    "city": "Gent",
+    "country": "Belgium",
+    "Cost_of_Living_and_Rent_Index": 51.85,
+    "groceries": 57.88,
+    "restaurant": 88.45,
+    "Local_purchasing": 94.77
+  },
+  {
+    "city": "Perth",
+    "country": "Australia",
+    "Cost_of_Living_and_Rent_Index": 55.38,
+    "groceries": 65.24,
+    "restaurant": 79.28,
+    "Local_purchasing": 139.93
+  },
+  {
+    "city": "Antwerp",
+    "country": "Belgium",
+    "Cost_of_Living_and_Rent_Index": 51.45,
+    "groceries": 61.2,
+    "restaurant": 86.36,
+    "Local_purchasing": 97.3
+  },
+  {
+    "city": "Portland",
+    "country": "ME",
+    "Cost_of_Living_and_Rent_Index": 59.47,
+    "groceries": 72.45,
+    "restaurant": 85.71,
+    "Local_purchasing": 122.77
+  },
+  {
+    "city": "West Palm Beach",
+    "country": "FL",
+    "Cost_of_Living_and_Rent_Index": 59.34,
+    "groceries": 70.55,
+    "restaurant": 82.5,
+    "Local_purchasing": 119.13
+  },
+  {
+    "city": "Hong Kong",
+    "country": "Hong Kong",
+    "Cost_of_Living_and_Rent_Index": 76.44,
+    "groceries": 74.88,
+    "restaurant": 54.05,
+    "Local_purchasing": 76.49
+  },
+  {
+    "city": "Innsbruck",
+    "country": "Austria",
+    "Cost_of_Living_and_Rent_Index": 53.84,
+    "groceries": 61.87,
+    "restaurant": 71.5,
+    "Local_purchasing": 95.54
+  },
+  {
+    "city": "Leuven",
+    "country": "Belgium",
+    "Cost_of_Living_and_Rent_Index": 52.55,
+    "groceries": 59.51,
+    "restaurant": 80.36,
+    "Local_purchasing": 96.92
+  },
+  {
+    "city": "Leiden",
+    "country": "Netherlands",
+    "Cost_of_Living_and_Rent_Index": 55.26,
+    "groceries": 56.34,
+    "restaurant": 84.44,
+    "Local_purchasing": 93.41
+  },
+  {
+    "city": "Osaka",
+    "country": "Japan",
+    "Cost_of_Living_and_Rent_Index": 49.84,
+    "groceries": 68.32,
+    "restaurant": 46.37,
+    "Local_purchasing": 102.1
+  },
+  {
+    "city": "Melbourne",
+    "country": "Australia",
+    "Cost_of_Living_and_Rent_Index": 59.48,
+    "groceries": 67.1,
+    "restaurant": 70.76,
+    "Local_purchasing": 131.85
+  },
+  {
+    "city": "Bath",
+    "country": "United Kingdom",
+    "Cost_of_Living_and_Rent_Index": 55.6,
+    "groceries": 61.79,
+    "restaurant": 81.23,
+    "Local_purchasing": 125.99
+  },
+  {
+    "city": "Everett",
+    "country": "WA",
+    "Cost_of_Living_and_Rent_Index": 59.72,
+    "groceries": 72.61,
+    "restaurant": 73.78,
+    "Local_purchasing": 119.38
+  },
+  {
+    "city": "Saskatoon",
+    "country": "Canada",
+    "Cost_of_Living_and_Rent_Index": 51.49,
+    "groceries": 72.37,
+    "restaurant": 65.25,
+    "Local_purchasing": 103.89
+  },
+  {
+    "city": "Tacoma",
+    "country": "WA",
+    "Cost_of_Living_and_Rent_Index": 57.36,
+    "groceries": 71.42,
+    "restaurant": 71.47,
+    "Local_purchasing": 130.05
+  },
+  {
+    "city": "Portland",
+    "country": "OR",
+    "Cost_of_Living_and_Rent_Index": 63.05,
+    "groceries": 69.19,
+    "restaurant": 71.6,
+    "Local_purchasing": 126.03
+  },
+  {
+    "city": "Rotterdam",
+    "country": "Netherlands",
+    "Cost_of_Living_and_Rent_Index": 54.83,
+    "groceries": 53.99,
+    "restaurant": 81.15,
+    "Local_purchasing": 111.02
+  },
+  {
+    "city": "Montpellier",
+    "country": "France",
+    "Cost_of_Living_and_Rent_Index": 50.76,
+    "groceries": 62.71,
+    "restaurant": 70.81,
+    "Local_purchasing": 94.37
+  },
+  {
+    "city": "St. John's",
+    "country": "NL",
+    "Cost_of_Living_and_Rent_Index": 49.32,
+    "groceries": 70.28,
+    "restaurant": 81.11,
+    "Local_purchasing": 96.78
+  },
+  {
+    "city": "Milan",
+    "country": "Italy",
+    "Cost_of_Living_and_Rent_Index": 57.63,
+    "groceries": 59.19,
+    "restaurant": 84.57,
+    "Local_purchasing": 74.87
+  },
+  {
+    "city": "Maastricht",
+    "country": "Netherlands",
+    "Cost_of_Living_and_Rent_Index": 54.1,
+    "groceries": 59.93,
+    "restaurant": 72.83,
+    "Local_purchasing": 104.75
+  },
+  {
+    "city": "Baltimore",
+    "country": "MD",
+    "Cost_of_Living_and_Rent_Index": 59.2,
+    "groceries": 68.71,
+    "restaurant": 77.01,
+    "Local_purchasing": 127.77
+  },
+  {
+    "city": "Munich",
+    "country": "Germany",
+    "Cost_of_Living_and_Rent_Index": 60.25,
+    "groceries": 56.28,
+    "restaurant": 80.5,
+    "Local_purchasing": 114.57
+  },
+  {
+    "city": "Espoo",
+    "country": "Finland",
+    "Cost_of_Living_and_Rent_Index": 53.75,
+    "groceries": 58.58,
+    "restaurant": 90.89,
+    "Local_purchasing": 121.22
+  },
+  {
+    "city": "New Orleans",
+    "country": "LA",
+    "Cost_of_Living_and_Rent_Index": 58.27,
+    "groceries": 67,
+    "restaurant": 86.02,
+    "Local_purchasing": 106.74
+  },
+  {
+    "city": "Galway",
+    "country": "Ireland",
+    "Cost_of_Living_and_Rent_Index": 54.83,
+    "groceries": 61.77,
+    "restaurant": 75.27,
+    "Local_purchasing": 94.56
+  },
+  {
+    "city": "Cork",
+    "country": "Ireland",
+    "Cost_of_Living_and_Rent_Index": 56.51,
+    "groceries": 57.77,
+    "restaurant": 74.67,
+    "Local_purchasing": 109.85
+  },
+  {
+    "city": "Padova",
+    "country": "Italy",
+    "Cost_of_Living_and_Rent_Index": 48.99,
+    "groceries": 60.51,
+    "restaurant": 72.3,
+    "Local_purchasing": 80.96
+  },
+  {
+    "city": "Haifa",
+    "country": "Israel",
+    "Cost_of_Living_and_Rent_Index": 47.88,
+    "groceries": 55.23,
+    "restaurant": 86.23,
+    "Local_purchasing": 100.6
+  },
+  {
+    "city": "Charlotte",
+    "country": "NC",
+    "Cost_of_Living_and_Rent_Index": 58.33,
+    "groceries": 69.21,
+    "restaurant": 76.67,
+    "Local_purchasing": 142.25
+  },
+  {
+    "city": "Burlington",
+    "country": "Canada",
+    "Cost_of_Living_and_Rent_Index": 53.86,
+    "groceries": 64.86,
+    "restaurant": 72.71,
+    "Local_purchasing": 119.67
+  },
+  {
+    "city": "Aberdeen",
+    "country": "United Kingdom",
+    "Cost_of_Living_and_Rent_Index": 51.69,
+    "groceries": 57.21,
+    "restaurant": 90.52,
+    "Local_purchasing": 128.24
+  },
+  {
+    "city": "Dusseldorf",
+    "country": "Germany",
+    "Cost_of_Living_and_Rent_Index": 53.99,
+    "groceries": 53.33,
+    "restaurant": 67.2,
+    "Local_purchasing": 115.58
+  },
+  {
+    "city": "Minneapolis",
+    "country": "MN",
+    "Cost_of_Living_and_Rent_Index": 60.27,
+    "groceries": 68.29,
+    "restaurant": 75.64,
+    "Local_purchasing": 133.75
+  },
+  {
+    "city": "Adelaide",
+    "country": "Australia",
+    "Cost_of_Living_and_Rent_Index": 53.54,
+    "groceries": 67.23,
+    "restaurant": 68.26,
+    "Local_purchasing": 127.17
+  },
+  {
+    "city": "Eindhoven",
+    "country": "Netherlands",
+    "Cost_of_Living_and_Rent_Index": 54.49,
+    "groceries": 56.19,
+    "restaurant": 83.88,
+    "Local_purchasing": 121.84
+  },
+  {
+    "city": "Cambridge",
+    "country": "United Kingdom",
+    "Cost_of_Living_and_Rent_Index": 58.99,
+    "groceries": 54.62,
+    "restaurant": 86.14,
+    "Local_purchasing": 106.28
+  },
+  {
+    "city": "Oxford",
+    "country": "United Kingdom",
+    "Cost_of_Living_and_Rent_Index": 61.34,
+    "groceries": 51.41,
+    "restaurant": 77.46,
+    "Local_purchasing": 87.88
+  },
+  {
+    "city": "Darwin",
+    "country": "Australia",
+    "Cost_of_Living_and_Rent_Index": 55.01,
+    "groceries": 64.71,
+    "restaurant": 78.11,
+    "Local_purchasing": 122.21
+  },
+  {
+    "city": "Eugene",
+    "country": "OR",
+    "Cost_of_Living_and_Rent_Index": 52.57,
+    "groceries": 78.36,
+    "restaurant": 67.68,
+    "Local_purchasing": 99.5
+  },
+  {
+    "city": "Nantes",
+    "country": "France",
+    "Cost_of_Living_and_Rent_Index": 48.42,
+    "groceries": 62.75,
+    "restaurant": 71.65,
+    "Local_purchasing": 104.62
+  },
+  {
+    "city": "Groningen",
+    "country": "Netherlands",
+    "Cost_of_Living_and_Rent_Index": 51.72,
+    "groceries": 58.44,
+    "restaurant": 81.94,
+    "Local_purchasing": 96.13
+  },
+  {
+    "city": "San Diego",
+    "country": "CA",
+    "Cost_of_Living_and_Rent_Index": 66.97,
+    "groceries": 64.11,
+    "restaurant": 79.21,
+    "Local_purchasing": 144.91
+  },
+  {
+    "city": "Ramat Gan",
+    "country": "Israel",
+    "Cost_of_Living_and_Rent_Index": 53.8,
+    "groceries": 54.27,
+    "restaurant": 79.83,
+    "Local_purchasing": 112.68
+  },
+  {
+    "city": "Hamburg",
+    "country": "Germany",
+    "Cost_of_Living_and_Rent_Index": 54.68,
+    "groceries": 54.35,
+    "restaurant": 70.09,
+    "Local_purchasing": 113.28
+  },
+  {
+    "city": "Bellingham",
+    "country": "WA",
+    "Cost_of_Living_and_Rent_Index": 54.17,
+    "groceries": 68.93,
+    "restaurant": 71.96,
+    "Local_purchasing": 114.33
+  },
+  {
+    "city": "Atlanta",
+    "country": "GA",
+    "Cost_of_Living_and_Rent_Index": 60.14,
+    "groceries": 66.94,
+    "restaurant": 73.06,
+    "Local_purchasing": 150.38
+  },
+  {
+    "city": "Denver",
+    "country": "CO",
+    "Cost_of_Living_and_Rent_Index": 63.53,
+    "groceries": 67.92,
+    "restaurant": 76.9,
+    "Local_purchasing": 130.34
+  },
+  {
+    "city": "Saint Paul",
+    "country": "MN",
+    "Cost_of_Living_and_Rent_Index": 59.3,
+    "groceries": 70.22,
+    "restaurant": 74.59,
+    "Local_purchasing": 111.58
+  },
+  {
+    "city": "Hamilton",
+    "country": "New Zealand",
+    "Cost_of_Living_and_Rent_Index": 48.81,
+    "groceries": 61.23,
+    "restaurant": 71.79,
+    "Local_purchasing": 114.79
+  },
+  {
+    "city": "Birmingham",
+    "country": "AL",
+    "Cost_of_Living_and_Rent_Index": 53.96,
+    "groceries": 69.4,
+    "restaurant": 69.34,
+    "Local_purchasing": 107.87
+  },
+  {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "Cost_of_Living_and_Rent_Index": 54.29,
+    "groceries": 53.12,
+    "restaurant": 74.5,
+    "Local_purchasing": 132.91
+  },
+  {
+    "city": "Wellington",
+    "country": "New Zealand",
+    "Cost_of_Living_and_Rent_Index": 56.45,
+    "groceries": 63.85,
+    "restaurant": 64.54,
+    "Local_purchasing": 116.39
+  },
+  {
+    "city": "Asheville",
+    "country": "NC",
+    "Cost_of_Living_and_Rent_Index": 55.27,
+    "groceries": 71.47,
+    "restaurant": 70.69,
+    "Local_purchasing": 104.81
+  },
+  {
+    "city": "Trieste",
+    "country": "Italy",
+    "Cost_of_Living_and_Rent_Index": 46.96,
+    "groceries": 64.67,
+    "restaurant": 71.2,
+    "Local_purchasing": 91.24
+  },
+  {
+    "city": "Fort Myers",
+    "country": "FL",
+    "Cost_of_Living_and_Rent_Index": 53.49,
+    "groceries": 68.78,
+    "restaurant": 77.88,
+    "Local_purchasing": 104.54
+  },
+  {
+    "city": "Newcastle",
+    "country": "Australia",
+    "Cost_of_Living_and_Rent_Index": 55.43,
+    "groceries": 63.56,
+    "restaurant": 79.19,
+    "Local_purchasing": 142.12
+  },
+  {
+    "city": "Portsmouth",
+    "country": "United Kingdom",
+    "Cost_of_Living_and_Rent_Index": 52.29,
+    "groceries": 51.81,
+    "restaurant": 87.08,
+    "Local_purchasing": 107.73
+  },
+  {
+    "city": "Halifax",
+    "country": "Canada",
+    "Cost_of_Living_and_Rent_Index": 50.6,
+    "groceries": 72.43,
+    "restaurant": 61.05,
+    "Local_purchasing": 99.86
+  },
+  {
+    "city": "Vienna",
+    "country": "Austria",
+    "Cost_of_Living_and_Rent_Index": 52.7,
+    "groceries": 63.61,
+    "restaurant": 67.94,
+    "Local_purchasing": 104.56
+  },
+  {
+    "city": "Heidelberg",
+    "country": "Germany",
+    "Cost_of_Living_and_Rent_Index": 53.16,
+    "groceries": 53.85,
+    "restaurant": 66.51,
+    "Local_purchasing": 135.3
+  },
+  {
+    "city": "Indianapolis",
+    "country": "IN",
+    "Cost_of_Living_and_Rent_Index": 53.76,
+    "groceries": 67.2,
+    "restaurant": 71.87,
+    "Local_purchasing": 109.93
+  },
+  {
+    "city": "Edinburgh",
+    "country": "United Kingdom",
+    "Cost_of_Living_and_Rent_Index": 53.08,
+    "groceries": 58.75,
+    "restaurant": 80.86,
+    "Local_purchasing": 110.16
+  },
+  {
+    "city": "Jacksonville",
+    "country": "FL",
+    "Cost_of_Living_and_Rent_Index": 52.04,
+    "groceries": 69,
+    "restaurant": 67.63,
+    "Local_purchasing": 132.56
+  },
+  {
+    "city": "Buffalo",
+    "country": "NY",
+    "Cost_of_Living_and_Rent_Index": 51.04,
+    "groceries": 62.31,
+    "restaurant": 72.75,
+    "Local_purchasing": 111.16
+  },
+  {
+    "city": "Olympia",
+    "country": "WA",
+    "Cost_of_Living_and_Rent_Index": 56.28,
+    "groceries": 60.02,
+    "restaurant": 78.68,
+    "Local_purchasing": 135.82
+  },
+  {
+    "city": "Saint Petersburg",
+    "country": "FL",
+    "Cost_of_Living_and_Rent_Index": 56.33,
+    "groceries": 66.03,
+    "restaurant": 72.96,
+    "Local_purchasing": 127.77
+  },
+  {
+    "city": "Austin",
+    "country": "TX",
+    "Cost_of_Living_and_Rent_Index": 60.96,
+    "groceries": 65.81,
+    "restaurant": 78.34,
+    "Local_purchasing": 151.25
+  },
+  {
+    "city": "Brisbane",
+    "country": "Australia",
+    "Cost_of_Living_and_Rent_Index": 55.63,
+    "groceries": 60.45,
+    "restaurant": 69.33,
+    "Local_purchasing": 134.54
+  },
+  {
+    "city": "Male",
+    "country": "Maldives",
+    "Cost_of_Living_and_Rent_Index": 52.23,
+    "groceries": 71.79,
+    "restaurant": 39.36,
+    "Local_purchasing": 28.32
+  },
+  {
+    "city": "Sliema",
+    "country": "Malta",
+    "Cost_of_Living_and_Rent_Index": 53.94,
+    "groceries": 55.05,
+    "restaurant": 82.28,
+    "Local_purchasing": 70.43
+  },
+  {
+    "city": "Rochester",
+    "country": "NY",
+    "Cost_of_Living_and_Rent_Index": 51.58,
+    "groceries": 69.88,
+    "restaurant": 71.98,
+    "Local_purchasing": 91.12
+  },
+  {
+    "city": "Christchurch",
+    "country": "New Zealand",
+    "Cost_of_Living_and_Rent_Index": 49.42,
+    "groceries": 61,
+    "restaurant": 70.54,
+    "Local_purchasing": 111.52
+  },
+  {
+    "city": "Toronto",
+    "country": "Canada",
+    "Cost_of_Living_and_Rent_Index": 57.92,
+    "groceries": 64.15,
+    "restaurant": 67.53,
+    "Local_purchasing": 99.45
+  },
+  {
+    "city": "Orlando",
+    "country": "FL",
+    "Cost_of_Living_and_Rent_Index": 55.15,
+    "groceries": 68.5,
+    "restaurant": 69.67,
+    "Local_purchasing": 130.1
+  },
+  {
+    "city": "Dunedin",
+    "country": "New Zealand",
+    "Cost_of_Living_and_Rent_Index": 47.27,
+    "groceries": 60.78,
+    "restaurant": 64.07,
+    "Local_purchasing": 112.89
+  },
+  {
+    "city": "Turku",
+    "country": "Finland",
+    "Cost_of_Living_and_Rent_Index": 47.4,
+    "groceries": 53.18,
+    "restaurant": 81.05,
+    "Local_purchasing": 126.99
+  },
+  {
+    "city": "Plymouth",
+    "country": "United Kingdom",
+    "Cost_of_Living_and_Rent_Index": 46.49,
+    "groceries": 58.63,
+    "restaurant": 71.32,
+    "Local_purchasing": 111.9
+  },
+  {
+    "city": "Swindon",
+    "country": "United Kingdom",
+    "Cost_of_Living_and_Rent_Index": 50.77,
+    "groceries": 49.5,
+    "restaurant": 81.79,
+    "Local_purchasing": 128.46
+  },
+  {
+    "city": "Canberra",
+    "country": "Australia",
+    "Cost_of_Living_and_Rent_Index": 56.03,
+    "groceries": 63.26,
+    "restaurant": 70.06,
+    "Local_purchasing": 153.77
+  },
+  {
+    "city": "Manchester",
+    "country": "United Kingdom",
+    "Cost_of_Living_and_Rent_Index": 51.17,
+    "groceries": 52.69,
+    "restaurant": 80.84,
+    "Local_purchasing": 107.7
+  },
+  {
+    "city": "Peoria",
+    "country": "IL",
+    "Cost_of_Living_and_Rent_Index": 48.88,
+    "groceries": 68.44,
+    "restaurant": 63.92,
+    "Local_purchasing": 118.14
+  },
+  {
+    "city": "Gothenburg",
+    "country": "Sweden",
+    "Cost_of_Living_and_Rent_Index": 50.62,
+    "groceries": 60.31,
+    "restaurant": 75.49,
+    "Local_purchasing": 122.33
+  },
+  {
+    "city": "Cleveland",
+    "country": "OH",
+    "Cost_of_Living_and_Rent_Index": 50.05,
+    "groceries": 62.06,
+    "restaurant": 69.68,
+    "Local_purchasing": 105.12
+  },
+  {
+    "city": "Vancouver",
+    "country": "Canada",
+    "Cost_of_Living_and_Rent_Index": 59.98,
+    "groceries": 66.65,
+    "restaurant": 67.35,
+    "Local_purchasing": 94.65
+  },
+  {
+    "city": "Limerick",
+    "country": "Ireland",
+    "Cost_of_Living_and_Rent_Index": 49.99,
+    "groceries": 60.78,
+    "restaurant": 67.61,
+    "Local_purchasing": 98.85
+  },
+  {
+    "city": "Bristol",
+    "country": "United Kingdom",
+    "Cost_of_Living_and_Rent_Index": 53.93,
+    "groceries": 52.44,
+    "restaurant": 87.3,
+    "Local_purchasing": 117.2
+  },
+  {
+    "city": "Brighton",
+    "country": "United Kingdom",
+    "Cost_of_Living_and_Rent_Index": 56.7,
+    "groceries": 52.95,
+    "restaurant": 78.93,
+    "Local_purchasing": 87.36
+  },
+  {
+    "city": "Bologna",
+    "country": "Italy",
+    "Cost_of_Living_and_Rent_Index": 47.98,
+    "groceries": 54.96,
+    "restaurant": 78.34,
+    "Local_purchasing": 85.6
+  },
+  {
+    "city": "York",
+    "country": "United Kingdom",
+    "Cost_of_Living_and_Rent_Index": 50.18,
+    "groceries": 55.98,
+    "restaurant": 78.14,
+    "Local_purchasing": 113.55
+  },
+  {
+    "city": "Karlsruhe",
+    "country": "Germany",
+    "Cost_of_Living_and_Rent_Index": 46.75,
+    "groceries": 52.43,
+    "restaurant": 74.86,
+    "Local_purchasing": 161.95
+  },
+  {
+    "city": "Raleigh",
+    "country": "NC",
+    "Cost_of_Living_and_Rent_Index": 53.56,
+    "groceries": 71.88,
+    "restaurant": 66.4,
+    "Local_purchasing": 155.96
+  },
+  {
+    "city": "Bonn",
+    "country": "Germany",
+    "Cost_of_Living_and_Rent_Index": 49.32,
+    "groceries": 52.2,
+    "restaurant": 67.8,
+    "Local_purchasing": 112.56
+  },
+  {
+    "city": "Hobart",
+    "country": "Australia",
+    "Cost_of_Living_and_Rent_Index": 49.62,
+    "groceries": 64.66,
+    "restaurant": 76.92,
+    "Local_purchasing": 124.03
+  },
+  {
+    "city": "Arlington",
+    "country": "TX",
+    "Cost_of_Living_and_Rent_Index": 51.04,
+    "groceries": 64.58,
+    "restaurant": 62.75,
+    "Local_purchasing": 141.64
+  },
+  {
+    "city": "Rome",
+    "country": "Italy",
+    "Cost_of_Living_and_Rent_Index": 53.72,
+    "groceries": 55.28,
+    "restaurant": 78.14,
+    "Local_purchasing": 72.99
+  },
+  {
+    "city": "Saint Louis",
+    "country": "MO",
+    "Cost_of_Living_and_Rent_Index": 50.28,
+    "groceries": 65.14,
+    "restaurant": 71.31,
+    "Local_purchasing": 149.05
+  },
+  {
+    "city": "Bremen",
+    "country": "Germany",
+    "Cost_of_Living_and_Rent_Index": 46.65,
+    "groceries": 53.13,
+    "restaurant": 67.53,
+    "Local_purchasing": 126.88
+  },
+  {
+    "city": "Calgary",
+    "country": "Canada",
+    "Cost_of_Living_and_Rent_Index": 50.43,
+    "groceries": 60.75,
+    "restaurant": 71.93,
+    "Local_purchasing": 138.51
+  },
+  {
+    "city": "Milwaukee",
+    "country": "WI",
+    "Cost_of_Living_and_Rent_Index": 53.07,
+    "groceries": 63.74,
+    "restaurant": 71.41,
+    "Local_purchasing": 107.87
+  },
+  {
+    "city": "Brampton",
+    "country": "Canada",
+    "Cost_of_Living_and_Rent_Index": 49.91,
+    "groceries": 68.6,
+    "restaurant": 58.42,
+    "Local_purchasing": 99.86
+  },
+  {
+    "city": "Nashville",
+    "country": "TN",
+    "Cost_of_Living_and_Rent_Index": 59.5,
+    "groceries": 64.1,
+    "restaurant": 76.79,
+    "Local_purchasing": 136.29
+  },
+  {
+    "city": "Uppsala",
+    "country": "Sweden",
+    "Cost_of_Living_and_Rent_Index": 48.24,
+    "groceries": 58.12,
+    "restaurant": 76.33,
+    "Local_purchasing": 122.17
+  },
+  {
+    "city": "Tampa",
+    "country": "FL",
+    "Cost_of_Living_and_Rent_Index": 54.85,
+    "groceries": 65.38,
+    "restaurant": 72.99,
+    "Local_purchasing": 140.97
+  },
+  {
+    "city": "Regina",
+    "country": "Canada",
+    "Cost_of_Living_and_Rent_Index": 49.31,
+    "groceries": 66.75,
+    "restaurant": 59.29,
+    "Local_purchasing": 112.05
+  },
+  {
+    "city": "Mannheim",
+    "country": "Germany",
+    "Cost_of_Living_and_Rent_Index": 46.49,
+    "groceries": 52,
+    "restaurant": 66.93,
+    "Local_purchasing": 141.04
+  },
+  {
+    "city": "Leeds",
+    "country": "United Kingdom",
+    "Cost_of_Living_and_Rent_Index": 49.23,
+    "groceries": 53.36,
+    "restaurant": 80.41,
+    "Local_purchasing": 119.62
+  },
+  {
+    "city": "Virginia Beach",
+    "country": "VA",
+    "Cost_of_Living_and_Rent_Index": 52.7,
+    "groceries": 62.06,
+    "restaurant": 71.73,
+    "Local_purchasing": 161.28
+  },
+  {
+    "city": "Berlin",
+    "country": "Germany",
+    "Cost_of_Living_and_Rent_Index": 50.65,
+    "groceries": 52.31,
+    "restaurant": 58.53,
+    "Local_purchasing": 112.36
+  },
+  {
+    "city": "Lille",
+    "country": "France",
+    "Cost_of_Living_and_Rent_Index": 46.55,
+    "groceries": 52.7,
+    "restaurant": 66.87,
+    "Local_purchasing": 97.87
+  },
+  {
+    "city": "Syracuse",
+    "country": "NY",
+    "Cost_of_Living_and_Rent_Index": 51.48,
+    "groceries": 63.81,
+    "restaurant": 68.6,
+    "Local_purchasing": 94.96
+  },
+  {
+    "city": "Stuttgart",
+    "country": "Germany",
+    "Cost_of_Living_and_Rent_Index": 51.29,
+    "groceries": 49.06,
+    "restaurant": 64.14,
+    "Local_purchasing": 130.11
+  },
+  {
+    "city": "Coquitlam",
+    "country": "Canada",
+    "Cost_of_Living_and_Rent_Index": 52.09,
+    "groceries": 66.05,
+    "restaurant": 58.84,
+    "Local_purchasing": 124.45
+  },
+  {
+    "city": "Red Deer",
+    "country": "Canada",
+    "Cost_of_Living_and_Rent_Index": 46.66,
+    "groceries": 55.68,
+    "restaurant": 65.18,
+    "Local_purchasing": 140.16
+  },
+  {
+    "city": "Cologne",
+    "country": "Germany",
+    "Cost_of_Living_and_Rent_Index": 49.51,
+    "groceries": 51.53,
+    "restaurant": 66.42,
+    "Local_purchasing": 133.27
+  },
+  {
+    "city": "Aachen",
+    "country": "Germany",
+    "Cost_of_Living_and_Rent_Index": 46.23,
+    "groceries": 52.03,
+    "restaurant": 59.44,
+    "Local_purchasing": 134.85
+  },
+  {
+    "city": "Tallahassee",
+    "country": "FL",
+    "Cost_of_Living_and_Rent_Index": 47.94,
+    "groceries": 71.3,
+    "restaurant": 59.97,
+    "Local_purchasing": 128.82
+  },
+  {
+    "city": "Bakersfield",
+    "country": "CA",
+    "Cost_of_Living_and_Rent_Index": 49.05,
+    "groceries": 63.16,
+    "restaurant": 70.58,
+    "Local_purchasing": 151.58
+  },
+  {
+    "city": "Ann Arbor",
+    "country": "MI",
+    "Cost_of_Living_and_Rent_Index": 57.84,
+    "groceries": 60.7,
+    "restaurant": 58.5,
+    "Local_purchasing": 128.99
+  },
+  {
+    "city": "Nottingham",
+    "country": "United Kingdom",
+    "Cost_of_Living_and_Rent_Index": 46.5,
+    "groceries": 54.03,
+    "restaurant": 66.6,
+    "Local_purchasing": 106.22
+  },
+  {
+    "city": "Edmonton",
+    "country": "Canada",
+    "Cost_of_Living_and_Rent_Index": 49.13,
+    "groceries": 60.51,
+    "restaurant": 69.57,
+    "Local_purchasing": 129.45
+  },
+  {
+    "city": "Las Vegas",
+    "country": "NV",
+    "Cost_of_Living_and_Rent_Index": 49.27,
+    "groceries": 59.56,
+    "restaurant": 72.2,
+    "Local_purchasing": 144.4
+  },
+  {
+    "city": "Columbus",
+    "country": "OH",
+    "Cost_of_Living_and_Rent_Index": 52.71,
+    "groceries": 58.94,
+    "restaurant": 66.04,
+    "Local_purchasing": 128.77
+  },
+  {
+    "city": "Turin",
+    "country": "Italy",
+    "Cost_of_Living_and_Rent_Index": 45.04,
+    "groceries": 52.98,
+    "restaurant": 72.24,
+    "Local_purchasing": 86.7
+  },
+  {
+    "city": "Spokane",
+    "country": "WA",
+    "Cost_of_Living_and_Rent_Index": 48.49,
+    "groceries": 59.19,
+    "restaurant": 68.65,
+    "Local_purchasing": 124.45
+  },
+  {
+    "city": "Kelowna",
+    "country": "Canada",
+    "Cost_of_Living_and_Rent_Index": 50.73,
+    "groceries": 62.58,
+    "restaurant": 61.82,
+    "Local_purchasing": 108.98
+  },
+  {
+    "city": "Exeter",
+    "country": "United Kingdom",
+    "Cost_of_Living_and_Rent_Index": 49.04,
+    "groceries": 48.27,
+    "restaurant": 78.62,
+    "Local_purchasing": 87.24
+  },
+  {
+    "city": "Glasgow",
+    "country": "United Kingdom",
+    "Cost_of_Living_and_Rent_Index": 48.04,
+    "groceries": 51.88,
+    "restaurant": 75.35,
+    "Local_purchasing": 121.47
+  },
+  {
+    "city": "Memphis",
+    "country": "TN",
+    "Cost_of_Living_and_Rent_Index": 47.6,
+    "groceries": 59.36,
+    "restaurant": 70.42,
+    "Local_purchasing": 125.07
+  },
+  {
+    "city": "Kingston",
+    "country": "Canada",
+    "Cost_of_Living_and_Rent_Index": 47.72,
+    "groceries": 64.5,
+    "restaurant": 60.41,
+    "Local_purchasing": 113.98
+  },
+  {
+    "city": "Nuremberg",
+    "country": "Germany",
+    "Cost_of_Living_and_Rent_Index": 46.39,
+    "groceries": 50.1,
+    "restaurant": 66.17,
+    "Local_purchasing": 120.91
+  },
+  {
+    "city": "Coventry",
+    "country": "United Kingdom",
+    "Cost_of_Living_and_Rent_Index": 47.66,
+    "groceries": 52.61,
+    "restaurant": 68.35,
+    "Local_purchasing": 138.99
+  },
+  {
+    "city": "Columbia",
+    "country": "SC",
+    "Cost_of_Living_and_Rent_Index": 48.01,
+    "groceries": 65.6,
+    "restaurant": 67.08,
+    "Local_purchasing": 124.84
+  },
+  {
+    "city": "Victoria",
+    "country": "Canada",
+    "Cost_of_Living_and_Rent_Index": 52.88,
+    "groceries": 65.05,
+    "restaurant": 59.95,
+    "Local_purchasing": 106.89
+  },
+  {
+    "city": "Malmo",
+    "country": "Sweden",
+    "Cost_of_Living_and_Rent_Index": 47.18,
+    "groceries": 56.6,
+    "restaurant": 72.21,
+    "Local_purchasing": 107.14
+  },
+  {
+    "city": "Salem",
+    "country": "OR",
+    "Cost_of_Living_and_Rent_Index": 48.48,
+    "groceries": 61.63,
+    "restaurant": 63.28,
+    "Local_purchasing": 125.24
+  },
+  {
+    "city": "Leipzig",
+    "country": "Germany",
+    "Cost_of_Living_and_Rent_Index": 44.24,
+    "groceries": 50.44,
+    "restaurant": 57.36,
+    "Local_purchasing": 90.74
+  },
+  {
+    "city": "Dresden",
+    "country": "Germany",
+    "Cost_of_Living_and_Rent_Index": 44.98,
+    "groceries": 50.52,
+    "restaurant": 56.77,
+    "Local_purchasing": 131.77
+  },
+  {
+    "city": "Fort Wayne",
+    "country": "IN",
+    "Cost_of_Living_and_Rent_Index": 44.98,
+    "groceries": 70.07,
+    "restaurant": 63.82,
+    "Local_purchasing": 124.37
+  },
+  {
+    "city": "Dayton",
+    "country": "OH",
+    "Cost_of_Living_and_Rent_Index": 45.07,
+    "groceries": 62.6,
+    "restaurant": 64.97,
+    "Local_purchasing": 91.21
+  },
+  {
+    "city": "San Juan",
+    "country": "Puerto Rico",
+    "Cost_of_Living_and_Rent_Index": 46.21,
+    "groceries": 59.19,
+    "restaurant": 56.46,
+    "Local_purchasing": 110.36
+  },
+  {
+    "city": "Taipei",
+    "country": "Taiwan",
+    "Cost_of_Living_and_Rent_Index": 45.39,
+    "groceries": 73.78,
+    "restaurant": 32.95,
+    "Local_purchasing": 95.59
+  },
+  {
+    "city": "Kansas City",
+    "country": "MO",
+    "Cost_of_Living_and_Rent_Index": 49.07,
+    "groceries": 58.43,
+    "restaurant": 68.12,
+    "Local_purchasing": 138.6
+  },
+  {
+    "city": "Leicester",
+    "country": "United Kingdom",
+    "Cost_of_Living_and_Rent_Index": 45.15,
+    "groceries": 51.01,
+    "restaurant": 71.76,
+    "Local_purchasing": 107.34
+  },
+  {
+    "city": "Oshawa",
+    "country": "Canada",
+    "Cost_of_Living_and_Rent_Index": 47.42,
+    "groceries": 55.97,
+    "restaurant": 68.51,
+    "Local_purchasing": 119.92
+  },
+  {
+    "city": "Nanaimo",
+    "country": "BC",
+    "Cost_of_Living_and_Rent_Index": 45.88,
+    "groceries": 68.45,
+    "restaurant": 58.51,
+    "Local_purchasing": 100.45
+  },
+  {
+    "city": "Fort Worth",
+    "country": "TX",
+    "Cost_of_Living_and_Rent_Index": 51.15,
+    "groceries": 56.86,
+    "restaurant": 70.27,
+    "Local_purchasing": 140.43
+  },
+  {
+    "city": "Palma de Mallorca",
+    "country": "Spain",
+    "Cost_of_Living_and_Rent_Index": 47.16,
+    "groceries": 50.72,
+    "restaurant": 66.04,
+    "Local_purchasing": 78.81
+  },
+  {
+    "city": "Mississauga",
+    "country": "Canada",
+    "Cost_of_Living_and_Rent_Index": 51.22,
+    "groceries": 58.39,
+    "restaurant": 60.01,
+    "Local_purchasing": 112.72
+  },
+  {
+    "city": "Quebec City",
+    "country": "Canada",
+    "Cost_of_Living_and_Rent_Index": 41.89,
+    "groceries": 62.78,
+    "restaurant": 60.07,
+    "Local_purchasing": 140.18
+  },
+  {
+    "city": "Norwich",
+    "country": "United Kingdom",
+    "Cost_of_Living_and_Rent_Index": 45.42,
+    "groceries": 48.98,
+    "restaurant": 76.45,
+    "Local_purchasing": 92.06
+  },
+  {
+    "city": "Burnaby",
+    "country": "Canada",
+    "Cost_of_Living_and_Rent_Index": 53.59,
+    "groceries": 58.52,
+    "restaurant": 59.61,
+    "Local_purchasing": 151.02
+  },
+  {
+    "city": "Fayetteville",
+    "country": "AR",
+    "Cost_of_Living_and_Rent_Index": 46.41,
+    "groceries": 61.15,
+    "restaurant": 67.22,
+    "Local_purchasing": 109.58
+  },
+  {
+    "city": "Naples",
+    "country": "Italy",
+    "Cost_of_Living_and_Rent_Index": 42.82,
+    "groceries": 56.22,
+    "restaurant": 59.15,
+    "Local_purchasing": 68.8
+  },
+  {
+    "city": "Derby",
+    "country": "United Kingdom",
+    "Cost_of_Living_and_Rent_Index": 43.43,
+    "groceries": 51.11,
+    "restaurant": 67.14,
+    "Local_purchasing": 146.98
+  },
+  {
+    "city": "Marseille",
+    "country": "France",
+    "Cost_of_Living_and_Rent_Index": 45.23,
+    "groceries": 54.31,
+    "restaurant": 63.64,
+    "Local_purchasing": 92.65
+  },
+  {
+    "city": "Kingston",
+    "country": "Jamaica",
+    "Cost_of_Living_and_Rent_Index": 41.54,
+    "groceries": 64.91,
+    "restaurant": 41.79,
+    "Local_purchasing": 29.03
+  },
+  {
+    "city": "Hanover",
+    "country": "Germany",
+    "Cost_of_Living_and_Rent_Index": 44.8,
+    "groceries": 53.06,
+    "restaurant": 60,
+    "Local_purchasing": 152.96
+  },
+  {
+    "city": "Richmond",
+    "country": "VA",
+    "Cost_of_Living_and_Rent_Index": 50.68,
+    "groceries": 63.54,
+    "restaurant": 62.47,
+    "Local_purchasing": 132.62
+  },
+  {
+    "city": "Gold Coast",
+    "country": "Australia",
+    "Cost_of_Living_and_Rent_Index": 51.68,
+    "groceries": 59.94,
+    "restaurant": 64.12,
+    "Local_purchasing": 129.83
+  },
+  {
+    "city": "Greensboro",
+    "country": "NC",
+    "Cost_of_Living_and_Rent_Index": 46.89,
+    "groceries": 63.03,
+    "restaurant": 61.8,
+    "Local_purchasing": 133.53
+  },
+  {
+    "city": "Birmingham",
+    "country": "United Kingdom",
+    "Cost_of_Living_and_Rent_Index": 48.38,
+    "groceries": 48.03,
+    "restaurant": 80.25,
+    "Local_purchasing": 106.94
+  },
+  {
+    "city": "Windsor",
+    "country": "Canada",
+    "Cost_of_Living_and_Rent_Index": 44.33,
+    "groceries": 51.65,
+    "restaurant": 68.38,
+    "Local_purchasing": 109.87
+  },
+  {
+    "city": "Dallas",
+    "country": "TX",
+    "Cost_of_Living_and_Rent_Index": 54.3,
+    "groceries": 58.5,
+    "restaurant": 68.02,
+    "Local_purchasing": 153.42
+  },
+  {
+    "city": "Albuquerque",
+    "country": "NM",
+    "Cost_of_Living_and_Rent_Index": 46.79,
+    "groceries": 64.42,
+    "restaurant": 63.21,
+    "Local_purchasing": 128.27
+  },
+  {
+    "city": "Phoenix",
+    "country": "AZ",
+    "Cost_of_Living_and_Rent_Index": 49.79,
+    "groceries": 56.58,
+    "restaurant": 72.47,
+    "Local_purchasing": 146.15
+  },
+  {
+    "city": "Southampton",
+    "country": "United Kingdom",
+    "Cost_of_Living_and_Rent_Index": 48.45,
+    "groceries": 48.32,
+    "restaurant": 70.79,
+    "Local_purchasing": 139.02
+  },
+  {
+    "city": "Gainesville",
+    "country": "FL",
+    "Cost_of_Living_and_Rent_Index": 47.24,
+    "groceries": 60.52,
+    "restaurant": 58.47,
+    "Local_purchasing": 106.34
+  },
+  {
+    "city": "Montreal",
+    "country": "Canada",
+    "Cost_of_Living_and_Rent_Index": 45.4,
+    "groceries": 60.69,
+    "restaurant": 61.07,
+    "Local_purchasing": 117.12
+  },
+  {
+    "city": "Grand Rapids",
+    "country": "MI",
+    "Cost_of_Living_and_Rent_Index": 48.12,
+    "groceries": 55.26,
+    "restaurant": 71.44,
+    "Local_purchasing": 129.66
+  },
+  {
+    "city": "Tucson",
+    "country": "AZ",
+    "Cost_of_Living_and_Rent_Index": 44.55,
+    "groceries": 52.48,
+    "restaurant": 63.98,
+    "Local_purchasing": 122.68
+  },
+  {
+    "city": "Madison",
+    "country": "WI",
+    "Cost_of_Living_and_Rent_Index": 51.09,
+    "groceries": 56.66,
+    "restaurant": 65.73,
+    "Local_purchasing": 144.61
+  },
+  {
+    "city": "Chattanooga",
+    "country": "TN",
+    "Cost_of_Living_and_Rent_Index": 47.33,
+    "groceries": 57.19,
+    "restaurant": 60.41,
+    "Local_purchasing": 124.02
+  },
+  {
+    "city": "Fresno",
+    "country": "CA",
+    "Cost_of_Living_and_Rent_Index": 47.57,
+    "groceries": 54.68,
+    "restaurant": 76.08,
+    "Local_purchasing": 120.12
+  },
+  {
+    "city": "Wichita",
+    "country": "KS",
+    "Cost_of_Living_and_Rent_Index": 44.38,
+    "groceries": 57.3,
+    "restaurant": 64.33,
+    "Local_purchasing": 135.99
+  },
+  {
+    "city": "Winnipeg",
+    "country": "Canada",
+    "Cost_of_Living_and_Rent_Index": 44.48,
+    "groceries": 57.33,
+    "restaurant": 58.5,
+    "Local_purchasing": 115.79
+  },
+  {
+    "city": "Cagliari",
+    "country": "Italy",
+    "Cost_of_Living_and_Rent_Index": 42.36,
+    "groceries": 55.09,
+    "restaurant": 64.01,
+    "Local_purchasing": 88.55
+  },
+  {
+    "city": "Salt Lake City",
+    "country": "UT",
+    "Cost_of_Living_and_Rent_Index": 50.1,
+    "groceries": 55.93,
+    "restaurant": 66.1,
+    "Local_purchasing": 150.76
+  },
+  {
+    "city": "Ottawa",
+    "country": "Canada",
+    "Cost_of_Living_and_Rent_Index": 47.44,
+    "groceries": 54.7,
+    "restaurant": 62.1,
+    "Local_purchasing": 144.7
+  },
+  {
+    "city": "Doha",
+    "country": "Qatar",
+    "Cost_of_Living_and_Rent_Index": 59.77,
+    "groceries": 51.33,
+    "restaurant": 61.18,
+    "Local_purchasing": 139.76
+  },
+  {
+    "city": "Detroit",
+    "country": "MI",
+    "Cost_of_Living_and_Rent_Index": 49.25,
+    "groceries": 56.21,
+    "restaurant": 51.65,
+    "Local_purchasing": 97.41
+  },
+  {
+    "city": "Newcastle upon Tyne",
+    "country": "United Kingdom",
+    "Cost_of_Living_and_Rent_Index": 43.89,
+    "groceries": 45.04,
+    "restaurant": 70.56,
+    "Local_purchasing": 133.83
+  },
+  {
+    "city": "Tulsa",
+    "country": "OK",
+    "Cost_of_Living_and_Rent_Index": 45.72,
+    "groceries": 59.49,
+    "restaurant": 62.36,
+    "Local_purchasing": 129.54
+  },
+  {
+    "city": "Cincinnati",
+    "country": "OH",
+    "Cost_of_Living_and_Rent_Index": 47.68,
+    "groceries": 52.4,
+    "restaurant": 63.41,
+    "Local_purchasing": 137.31
+  },
+  {
+    "city": "Sheffield",
+    "country": "United Kingdom",
+    "Cost_of_Living_and_Rent_Index": 43.88,
+    "groceries": 49.09,
+    "restaurant": 71.97,
+    "Local_purchasing": 119.46
+  },
+  {
+    "city": "Belfast",
+    "country": "United Kingdom",
+    "Cost_of_Living_and_Rent_Index": 43.58,
+    "groceries": 50.78,
+    "restaurant": 77.19,
+    "Local_purchasing": 100.69
+  },
+  {
+    "city": "Lubbock",
+    "country": "TX",
+    "Cost_of_Living_and_Rent_Index": 44.35,
+    "groceries": 56.8,
+    "restaurant": 64.34,
+    "Local_purchasing": 135.19
+  },
+  {
+    "city": "Taichung",
+    "country": "Taiwan",
+    "Cost_of_Living_and_Rent_Index": 38.94,
+    "groceries": 72.88,
+    "restaurant": 28.17,
+    "Local_purchasing": 65.41
+  },
+  {
+    "city": "Des Moines",
+    "country": "IA",
+    "Cost_of_Living_and_Rent_Index": 48.66,
+    "groceries": 57.09,
+    "restaurant": 63.36,
+    "Local_purchasing": 128.68
+  },
+  {
+    "city": "Houston",
+    "country": "TX",
+    "Cost_of_Living_and_Rent_Index": 53.14,
+    "groceries": 54.36,
+    "restaurant": 72.49,
+    "Local_purchasing": 155.88
+  },
+  {
+    "city": "Barcelona",
+    "country": "Spain",
+    "Cost_of_Living_and_Rent_Index": 48.09,
+    "groceries": 48.06,
+    "restaurant": 60.42,
+    "Local_purchasing": 80.46
+  },
+  {
+    "city": "Cardiff",
+    "country": "United Kingdom",
+    "Cost_of_Living_and_Rent_Index": 46.34,
+    "groceries": 52.3,
+    "restaurant": 67.16,
+    "Local_purchasing": 116.48
+  },
+  {
+    "city": "Liverpool",
+    "country": "United Kingdom",
+    "Cost_of_Living_and_Rent_Index": 44.35,
+    "groceries": 44.7,
+    "restaurant": 67.48,
+    "Local_purchasing": 121.31
+  },
+  {
+    "city": "Abu Dhabi",
+    "country": "United Arab Emirates",
+    "Cost_of_Living_and_Rent_Index": 60.28,
+    "groceries": 50.11,
+    "restaurant": 63.2,
+    "Local_purchasing": 116.42
+  },
+  {
+    "city": "Oklahoma City",
+    "country": "OK",
+    "Cost_of_Living_and_Rent_Index": 44.68,
+    "groceries": 60.18,
+    "restaurant": 56.84,
+    "Local_purchasing": 136.21
+  },
+  {
+    "city": "Palermo",
+    "country": "Italy",
+    "Cost_of_Living_and_Rent_Index": 40.14,
+    "groceries": 50.93,
+    "restaurant": 59.39,
+    "Local_purchasing": 80.13
+  },
+  {
+    "city": "Moncton",
+    "country": "Canada",
+    "Cost_of_Living_and_Rent_Index": 40.58,
+    "groceries": 54.08,
+    "restaurant": 60.71,
+    "Local_purchasing": 112.73
+  },
+  {
+    "city": "Nicosia",
+    "country": "Cyprus",
+    "Cost_of_Living_and_Rent_Index": 40.5,
+    "groceries": 46.7,
+    "restaurant": 70.81,
+    "Local_purchasing": 74.05
+  },
+  {
+    "city": "Knoxville",
+    "country": "TN",
+    "Cost_of_Living_and_Rent_Index": 45.72,
+    "groceries": 59.45,
+    "restaurant": 59.43,
+    "Local_purchasing": 116.61
+  },
+  {
+    "city": "Beirut",
+    "country": "Lebanon",
+    "Cost_of_Living_and_Rent_Index": 47.31,
+    "groceries": 42.01,
+    "restaurant": 64.39,
+    "Local_purchasing": 54.43
+  },
+  {
+    "city": "Hamilton",
+    "country": "Canada",
+    "Cost_of_Living_and_Rent_Index": 44.46,
+    "groceries": 53.08,
+    "restaurant": 62.2,
+    "Local_purchasing": 127.16
+  },
+  {
+    "city": "Springfield",
+    "country": "MO",
+    "Cost_of_Living_and_Rent_Index": 40.73,
+    "groceries": 60.68,
+    "restaurant": 61.21,
+    "Local_purchasing": 102.88
+  },
+  {
+    "city": "Vancouver",
+    "country": "WA",
+    "Cost_of_Living_and_Rent_Index": 48.87,
+    "groceries": 50.54,
+    "restaurant": 61.81,
+    "Local_purchasing": 153.07
+  },
+  {
+    "city": "Athens",
+    "country": "Greece",
+    "Cost_of_Living_and_Rent_Index": 37.85,
+    "groceries": 44.92,
+    "restaurant": 62.38,
+    "Local_purchasing": 52.48
+  },
+  {
+    "city": "Toledo",
+    "country": "OH",
+    "Cost_of_Living_and_Rent_Index": 41.84,
+    "groceries": 50.89,
+    "restaurant": 55.69,
+    "Local_purchasing": 125.57
+  },
+  {
+    "city": "Little Rock",
+    "country": "AR",
+    "Cost_of_Living_and_Rent_Index": 44.26,
+    "groceries": 55.44,
+    "restaurant": 63.52,
+    "Local_purchasing": 144.07
+  },
+  {
+    "city": "Louisville",
+    "country": "KY",
+    "Cost_of_Living_and_Rent_Index": 44.44,
+    "groceries": 53.87,
+    "restaurant": 66.45,
+    "Local_purchasing": 123.93
+  },
+  {
+    "city": "Madrid",
+    "country": "Spain",
+    "Cost_of_Living_and_Rent_Index": 46.62,
+    "groceries": 45.69,
+    "restaurant": 64.44,
+    "Local_purchasing": 91.36
+  },
+  {
+    "city": "Reno",
+    "country": "NV",
+    "Cost_of_Living_and_Rent_Index": 49.51,
+    "groceries": 51.96,
+    "restaurant": 62.27,
+    "Local_purchasing": 136.81
+  },
+  {
+    "city": "Huntsville",
+    "country": "AL",
+    "Cost_of_Living_and_Rent_Index": 45.06,
+    "groceries": 58.83,
+    "restaurant": 60.2,
+    "Local_purchasing": 162.04
+  },
+  {
+    "city": "Lexington",
+    "country": "KY",
+    "Cost_of_Living_and_Rent_Index": 43.17,
+    "groceries": 54.5,
+    "restaurant": 60.08,
+    "Local_purchasing": 141.91
+  },
+  {
+    "city": "Port of Spain",
+    "country": "Trinidad And Tobago",
+    "Cost_of_Living_and_Rent_Index": 40.73,
+    "groceries": 55.83,
+    "restaurant": 53.74,
+    "Local_purchasing": 51.2
+  },
+  {
+    "city": "Boise",
+    "country": "ID",
+    "Cost_of_Living_and_Rent_Index": 45.9,
+    "groceries": 50.93,
+    "restaurant": 63.79,
+    "Local_purchasing": 120.44
+  },
+  {
+    "city": "El Paso",
+    "country": "TX",
+    "Cost_of_Living_and_Rent_Index": 41.76,
+    "groceries": 54.07,
+    "restaurant": 59.41,
+    "Local_purchasing": 131.7
+  },
+  {
+    "city": "Surrey",
+    "country": "Canada",
+    "Cost_of_Living_and_Rent_Index": 45.54,
+    "groceries": 51.61,
+    "restaurant": 57.55,
+    "Local_purchasing": 93.91
+  },
+  {
+    "city": "London",
+    "country": "Canada",
+    "Cost_of_Living_and_Rent_Index": 42.08,
+    "groceries": 47.61,
+    "restaurant": 63.25,
+    "Local_purchasing": 118.79
+  },
+  {
+    "city": "Abbotsford",
+    "country": "Canada",
+    "Cost_of_Living_and_Rent_Index": 42.89,
+    "groceries": 54.08,
+    "restaurant": 59.78,
+    "Local_purchasing": 111.27
+  },
+  {
+    "city": "Kitchener",
+    "country": "Canada",
+    "Cost_of_Living_and_Rent_Index": 43.05,
+    "groceries": 51.13,
+    "restaurant": 58.73,
+    "Local_purchasing": 129.74
+  },
+  {
+    "city": "San Antonio",
+    "country": "TX",
+    "Cost_of_Living_and_Rent_Index": 45.41,
+    "groceries": 55.2,
+    "restaurant": 52.09,
+    "Local_purchasing": 150.96
+  },
+  {
+    "city": "Montevideo",
+    "country": "Uruguay",
+    "Cost_of_Living_and_Rent_Index": 39.09,
+    "groceries": 44.97,
+    "restaurant": 56.33,
+    "Local_purchasing": 50.08
+  },
+  {
+    "city": "Zaragoza (Saragossa)",
+    "country": "Spain",
+    "Cost_of_Living_and_Rent_Index": 39.15,
+    "groceries": 45.42,
+    "restaurant": 55.82,
+    "Local_purchasing": 83.22
+  },
+  {
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "Cost_of_Living_and_Rent_Index": 35.86,
+    "groceries": 43.49,
+    "restaurant": 58.35,
+    "Local_purchasing": 49.84
+  },
+  {
+    "city": "San Jose",
+    "country": "Costa Rica",
+    "Cost_of_Living_and_Rent_Index": 39.05,
+    "groceries": 54,
+    "restaurant": 50.33,
+    "Local_purchasing": 53.97
+  },
+  {
+    "city": "Limassol",
+    "country": "Cyprus",
+    "Cost_of_Living_and_Rent_Index": 42.29,
+    "groceries": 44.64,
+    "restaurant": 61.39,
+    "Local_purchasing": 77.56
+  },
+  {
+    "city": "Accra",
+    "country": "Ghana",
+    "Cost_of_Living_and_Rent_Index": 47.31,
+    "groceries": 50.61,
+    "restaurant": 35.26,
+    "Local_purchasing": 14.15
+  },
+  {
+    "city": "Kaohsiung",
+    "country": "Taiwan",
+    "Cost_of_Living_and_Rent_Index": 34.3,
+    "groceries": 63.9,
+    "restaurant": 25.32,
+    "Local_purchasing": 110.16
+  },
+  {
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "Cost_of_Living_and_Rent_Index": 38.71,
+    "groceries": 44.61,
+    "restaurant": 50.53,
+    "Local_purchasing": 78.01
+  },
+  {
+    "city": "Valencia",
+    "country": "Spain",
+    "Cost_of_Living_and_Rent_Index": 38.24,
+    "groceries": 43.85,
+    "restaurant": 52.36,
+    "Local_purchasing": 90.32
+  },
+  {
+    "city": "Manama",
+    "country": "Bahrain",
+    "Cost_of_Living_and_Rent_Index": 42.62,
+    "groceries": 47.89,
+    "restaurant": 54.77,
+    "Local_purchasing": 72.63
+  },
+  {
+    "city": "Tallinn",
+    "country": "Estonia",
+    "Cost_of_Living_and_Rent_Index": 37.51,
+    "groceries": 37.57,
+    "restaurant": 60.44,
+    "Local_purchasing": 74.16
+  },
+  {
+    "city": "Panama City",
+    "country": "Panama",
+    "Cost_of_Living_and_Rent_Index": 43.13,
+    "groceries": 48.72,
+    "restaurant": 56.33,
+    "Local_purchasing": 43.49
+  },
+  {
+    "city": "Amman",
+    "country": "Jordan",
+    "Cost_of_Living_and_Rent_Index": 34.63,
+    "groceries": 43.18,
+    "restaurant": 53.3,
+    "Local_purchasing": 45.41
+  },
+  {
+    "city": "Seville (Sevilla)",
+    "country": "Spain",
+    "Cost_of_Living_and_Rent_Index": 38.39,
+    "groceries": 43.86,
+    "restaurant": 53.13,
+    "Local_purchasing": 83.49
+  },
+  {
+    "city": "Larnaca",
+    "country": "Cyprus",
+    "Cost_of_Living_and_Rent_Index": 34.06,
+    "groceries": 41.24,
+    "restaurant": 61.99,
+    "Local_purchasing": 80.84
+  },
+  {
+    "city": "Lisbon",
+    "country": "Portugal",
+    "Cost_of_Living_and_Rent_Index": 42.69,
+    "groceries": 42.2,
+    "restaurant": 48.79,
+    "Local_purchasing": 55.01
+  },
+  {
+    "city": "Alicante",
+    "country": "Spain",
+    "Cost_of_Living_and_Rent_Index": 35.81,
+    "groceries": 42.74,
+    "restaurant": 53.97,
+    "Local_purchasing": 80.73
+  },
+  {
+    "city": "Split",
+    "country": "Croatia",
+    "Cost_of_Living_and_Rent_Index": 34.59,
+    "groceries": 42.31,
+    "restaurant": 50.28,
+    "Local_purchasing": 51.11
+  },
+  {
+    "city": "Bangkok",
+    "country": "Thailand",
+    "Cost_of_Living_and_Rent_Index": 40.41,
+    "groceries": 52.65,
+    "restaurant": 29.92,
+    "Local_purchasing": 44.5
+  },
+  {
+    "city": "Sharjah",
+    "country": "United Arab Emirates",
+    "Cost_of_Living_and_Rent_Index": 41.34,
+    "groceries": 42.29,
+    "restaurant": 40.54,
+    "Local_purchasing": 102.11
+  },
+  {
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "Cost_of_Living_and_Rent_Index": 51.42,
+    "groceries": 37.47,
+    "restaurant": 54.61,
+    "Local_purchasing": 153.68
+  },
+  {
+    "city": "Rijeka",
+    "country": "Croatia",
+    "Cost_of_Living_and_Rent_Index": 33.26,
+    "groceries": 41.96,
+    "restaurant": 42.72,
+    "Local_purchasing": 54.56
+  },
+  {
+    "city": "Zagreb",
+    "country": "Croatia",
+    "Cost_of_Living_and_Rent_Index": 34.44,
+    "groceries": 41.94,
+    "restaurant": 43.99,
+    "Local_purchasing": 66.88
+  },
+  {
+    "city": "Makati",
+    "country": "Philippines",
+    "Cost_of_Living_and_Rent_Index": 37.8,
+    "groceries": 53.5,
+    "restaurant": 26.37,
+    "Local_purchasing": 44.96
+  },
+  {
+    "city": "Coimbra",
+    "country": "Portugal",
+    "Cost_of_Living_and_Rent_Index": 33.33,
+    "groceries": 40.31,
+    "restaurant": 39.91,
+    "Local_purchasing": 72.57
+  },
+  {
+    "city": "Muscat",
+    "country": "Oman",
+    "Cost_of_Living_and_Rent_Index": 38.58,
+    "groceries": 41.46,
+    "restaurant": 53.53,
+    "Local_purchasing": 94.38
+  },
+  {
+    "city": "Al Khobar",
+    "country": "Saudi Arabia",
+    "Cost_of_Living_and_Rent_Index": 33.58,
+    "groceries": 43.3,
+    "restaurant": 35.34,
+    "Local_purchasing": 118.44
+  },
+  {
+    "city": "Funchal",
+    "country": "Portugal",
+    "Cost_of_Living_and_Rent_Index": 35.21,
+    "groceries": 38.92,
+    "restaurant": 37.82,
+    "Local_purchasing": 54.47
+  },
+  {
+    "city": "Riga",
+    "country": "Latvia",
+    "Cost_of_Living_and_Rent_Index": 33.18,
+    "groceries": 36.36,
+    "restaurant": 47.56,
+    "Local_purchasing": 56.56
+  },
+  {
+    "city": "Porto",
+    "country": "Portugal",
+    "Cost_of_Living_and_Rent_Index": 36.91,
+    "groceries": 39.5,
+    "restaurant": 42.58,
+    "Local_purchasing": 59.38
+  },
+  {
+    "city": "Shanghai",
+    "country": "China",
+    "Cost_of_Living_and_Rent_Index": 42.68,
+    "groceries": 51.66,
+    "restaurant": 38.61,
+    "Local_purchasing": 72.16
+  },
+  {
+    "city": "Granada",
+    "country": "Spain",
+    "Cost_of_Living_and_Rent_Index": 33.52,
+    "groceries": 37.44,
+    "restaurant": 51.53,
+    "Local_purchasing": 92.4
+  },
+  {
+    "city": "Malaga",
+    "country": "Spain",
+    "Cost_of_Living_and_Rent_Index": 36.24,
+    "groceries": 40.51,
+    "restaurant": 53,
+    "Local_purchasing": 87.9
+  },
+  {
+    "city": "Santiago",
+    "country": "Chile",
+    "Cost_of_Living_and_Rent_Index": 34.68,
+    "groceries": 40.37,
+    "restaurant": 50.49,
+    "Local_purchasing": 51.83
+  },
+  {
+    "city": "Jeddah (Jiddah)",
+    "country": "Saudi Arabia",
+    "Cost_of_Living_and_Rent_Index": 32.12,
+    "groceries": 37.48,
+    "restaurant": 34.96,
+    "Local_purchasing": 117.3
+  },
+  {
+    "city": "Addis Ababa",
+    "country": "Ethiopia",
+    "Cost_of_Living_and_Rent_Index": 39.93,
+    "groceries": 39.26,
+    "restaurant": 25.06,
+    "Local_purchasing": 11.84
+  },
+  {
+    "city": "Tartu",
+    "country": "Estonia",
+    "Cost_of_Living_and_Rent_Index": 32.62,
+    "groceries": 37.77,
+    "restaurant": 44.56,
+    "Local_purchasing": 83.33
+  },
+  {
+    "city": "Havana",
+    "country": "Cuba",
+    "Cost_of_Living_and_Rent_Index": 30.6,
+    "groceries": 35.26,
+    "restaurant": 28.8,
+    "Local_purchasing": 2.24
+  },
+  {
+    "city": "Quito",
+    "country": "Ecuador",
+    "Cost_of_Living_and_Rent_Index": 33.03,
+    "groceries": 45.13,
+    "restaurant": 37.3,
+    "Local_purchasing": 40.02
+  },
+  {
+    "city": "Maribor",
+    "country": "Slovenia",
+    "Cost_of_Living_and_Rent_Index": 31.08,
+    "groceries": 38.45,
+    "restaurant": 41.88,
+    "Local_purchasing": 90.05
+  },
+  {
+    "city": "Santa Cruz de Tenerife",
+    "country": "Spain",
+    "Cost_of_Living_and_Rent_Index": 33.87,
+    "groceries": 37.32,
+    "restaurant": 53.01,
+    "Local_purchasing": 90.92
+  },
+  {
+    "city": "Riyadh",
+    "country": "Saudi Arabia",
+    "Cost_of_Living_and_Rent_Index": 32.3,
+    "groceries": 38.42,
+    "restaurant": 34.25,
+    "Local_purchasing": 125.38
+  },
+  {
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "Cost_of_Living_and_Rent_Index": 36.16,
+    "groceries": 39.84,
+    "restaurant": 42.14,
+    "Local_purchasing": 71.93
+  },
+  {
+    "city": "Braga",
+    "country": "Portugal",
+    "Cost_of_Living_and_Rent_Index": 31.69,
+    "groceries": 38.22,
+    "restaurant": 34.8,
+    "Local_purchasing": 64.3
+  },
+  {
+    "city": "Ad Dammam",
+    "country": "Saudi Arabia",
+    "Cost_of_Living_and_Rent_Index": 31.4,
+    "groceries": 40.41,
+    "restaurant": 32.03,
+    "Local_purchasing": 133.28
+  },
+  {
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "Cost_of_Living_and_Rent_Index": 33.51,
+    "groceries": 35.05,
+    "restaurant": 48.83,
+    "Local_purchasing": 61.08
+  },
+  {
+    "city": "Prague",
+    "country": "Czech Republic",
+    "Cost_of_Living_and_Rent_Index": 36.59,
+    "groceries": 39.22,
+    "restaurant": 37.83,
+    "Local_purchasing": 77.71
+  },
+  {
+    "city": "Bandar Seri Begawan",
+    "country": "Brunei",
+    "Cost_of_Living_and_Rent_Index": 36.64,
+    "groceries": 46.01,
+    "restaurant": 33.42,
+    "Local_purchasing": 105.16
+  },
+  {
+    "city": "Harare",
+    "country": "Zimbabwe",
+    "Cost_of_Living_and_Rent_Index": 31.46,
+    "groceries": 40.14,
+    "restaurant": 34.75,
+    "Local_purchasing": 27.7
+  },
+  {
+    "city": "Las Palmas de Gran Canaria",
+    "country": "Spain",
+    "Cost_of_Living_and_Rent_Index": 34.29,
+    "groceries": 39,
+    "restaurant": 47.2,
+    "Local_purchasing": 91
+  },
+  {
+    "city": "San Salvador",
+    "country": "El Salvador",
+    "Cost_of_Living_and_Rent_Index": 32.4,
+    "groceries": 45.6,
+    "restaurant": 35.92,
+    "Local_purchasing": 32.08
+  },
+  {
+    "city": "Guayaquil",
+    "country": "Ecuador",
+    "Cost_of_Living_and_Rent_Index": 31.9,
+    "groceries": 39.27,
+    "restaurant": 36.69,
+    "Local_purchasing": 35.23
+  },
+  {
+    "city": "Baghdad",
+    "country": "Iraq",
+    "Cost_of_Living_and_Rent_Index": 31.51,
+    "groceries": 37.22,
+    "restaurant": 40.6,
+    "Local_purchasing": 44.1
+  },
+  {
+    "city": "Phuket",
+    "country": "Thailand",
+    "Cost_of_Living_and_Rent_Index": 31.96,
+    "groceries": 47.75,
+    "restaurant": 28.58,
+    "Local_purchasing": 58.71
+  },
+  {
+    "city": "Klaipeda",
+    "country": "Lithuania",
+    "Cost_of_Living_and_Rent_Index": 29.85,
+    "groceries": 36.3,
+    "restaurant": 43.53,
+    "Local_purchasing": 58.45
+  },
+  {
+    "city": "Kosice",
+    "country": "Slovakia",
+    "Cost_of_Living_and_Rent_Index": 31.61,
+    "groceries": 36.56,
+    "restaurant": 34.18,
+    "Local_purchasing": 61.88
+  },
+  {
+    "city": "Pretoria",
+    "country": "South Africa",
+    "Cost_of_Living_and_Rent_Index": 30.75,
+    "groceries": 34.99,
+    "restaurant": 42.21,
+    "Local_purchasing": 83.65
+  },
+  {
+    "city": "Santo Domingo",
+    "country": "Dominican Republic",
+    "Cost_of_Living_and_Rent_Index": 29.72,
+    "groceries": 35.34,
+    "restaurant": 43.65,
+    "Local_purchasing": 32.05
+  },
+  {
+    "city": "Kaunas",
+    "country": "Lithuania",
+    "Cost_of_Living_and_Rent_Index": 29.71,
+    "groceries": 34.52,
+    "restaurant": 41.31,
+    "Local_purchasing": 61.43
+  },
+  {
+    "city": "Windhoek",
+    "country": "Namibia",
+    "Cost_of_Living_and_Rent_Index": 33.77,
+    "groceries": 40.21,
+    "restaurant": 43.45,
+    "Local_purchasing": 55.74
+  },
+  {
+    "city": "Phnom Penh",
+    "country": "Cambodia",
+    "Cost_of_Living_and_Rent_Index": 32.4,
+    "groceries": 45.08,
+    "restaurant": 25.71,
+    "Local_purchasing": 22.53
+  },
+  {
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "Cost_of_Living_and_Rent_Index": 32.18,
+    "groceries": 35.68,
+    "restaurant": 42.93,
+    "Local_purchasing": 108.84
+  },
+  {
+    "city": "Osijek",
+    "country": "Croatia",
+    "Cost_of_Living_and_Rent_Index": 27.23,
+    "groceries": 35.73,
+    "restaurant": 33.88,
+    "Local_purchasing": 60.74
+  },
+  {
+    "city": "Brno",
+    "country": "Czech Republic",
+    "Cost_of_Living_and_Rent_Index": 32.1,
+    "groceries": 36.98,
+    "restaurant": 32.93,
+    "Local_purchasing": 75.09
+  },
+  {
+    "city": "Moscow",
+    "country": "Russia",
+    "Cost_of_Living_and_Rent_Index": 37.33,
+    "groceries": 33.29,
+    "restaurant": 48.98,
+    "Local_purchasing": 59.51
+  },
+  {
+    "city": "Selangor",
+    "country": "Malaysia",
+    "Cost_of_Living_and_Rent_Index": 27.65,
+    "groceries": 40.31,
+    "restaurant": 25.83,
+    "Local_purchasing": 91.05
+  },
+  {
+    "city": "Campinas",
+    "country": "Brazil",
+    "Cost_of_Living_and_Rent_Index": 29.21,
+    "groceries": 30.99,
+    "restaurant": 42.79,
+    "Local_purchasing": 52.58
+  },
+  {
+    "city": "Guatemala City",
+    "country": "Guatemala",
+    "Cost_of_Living_and_Rent_Index": 30.37,
+    "groceries": 39.08,
+    "restaurant": 34.49,
+    "Local_purchasing": 39.76
+  },
+  {
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "Cost_of_Living_and_Rent_Index": 33.87,
+    "groceries": 30.77,
+    "restaurant": 32.43,
+    "Local_purchasing": 29.36
+  },
+  {
+    "city": "Petaling Jaya",
+    "country": "Malaysia",
+    "Cost_of_Living_and_Rent_Index": 29.07,
+    "groceries": 48.95,
+    "restaurant": 22.16,
+    "Local_purchasing": 73.49
+  },
+  {
+    "city": "Sao Paulo",
+    "country": "Brazil",
+    "Cost_of_Living_and_Rent_Index": 31.11,
+    "groceries": 32.25,
+    "restaurant": 38.79,
+    "Local_purchasing": 41.16
+  },
+  {
+    "city": "Rio de Janeiro",
+    "country": "Brazil",
+    "Cost_of_Living_and_Rent_Index": 30.89,
+    "groceries": 29.67,
+    "restaurant": 40.01,
+    "Local_purchasing": 36.57
+  },
+  {
+    "city": "Brasilia",
+    "country": "Brazil",
+    "Cost_of_Living_and_Rent_Index": 29.76,
+    "groceries": 34.36,
+    "restaurant": 42.56,
+    "Local_purchasing": 63.24
+  },
+  {
+    "city": "Penang",
+    "country": "Malaysia",
+    "Cost_of_Living_and_Rent_Index": 27.96,
+    "groceries": 45.3,
+    "restaurant": 24.7,
+    "Local_purchasing": 76.04
+  },
+  {
+    "city": "Beijing",
+    "country": "China",
+    "Cost_of_Living_and_Rent_Index": 38.02,
+    "groceries": 37.61,
+    "restaurant": 35.68,
+    "Local_purchasing": 79.45
+  },
+  {
+    "city": "Budapest",
+    "country": "Hungary",
+    "Cost_of_Living_and_Rent_Index": 30.63,
+    "groceries": 33.14,
+    "restaurant": 35.79,
+    "Local_purchasing": 57.49
+  },
+  {
+    "city": "Gdansk",
+    "country": "Poland",
+    "Cost_of_Living_and_Rent_Index": 30.32,
+    "groceries": 30.83,
+    "restaurant": 38.37,
+    "Local_purchasing": 76.2
+  },
+  {
+    "city": "Johor Bahru",
+    "country": "Malaysia",
+    "Cost_of_Living_and_Rent_Index": 27.09,
+    "groceries": 50.21,
+    "restaurant": 23.81,
+    "Local_purchasing": 59.51
+  },
+  {
+    "city": "Pattaya",
+    "country": "Thailand",
+    "Cost_of_Living_and_Rent_Index": 31.48,
+    "groceries": 43.07,
+    "restaurant": 27.58,
+    "Local_purchasing": 28.42
+  },
+  {
+    "city": "Irbil",
+    "country": "Iraq",
+    "Cost_of_Living_and_Rent_Index": 27.92,
+    "groceries": 36.73,
+    "restaurant": 30.83,
+    "Local_purchasing": 51.76
+  },
+  {
+    "city": "Kuala Lumpur",
+    "country": "Malaysia",
+    "Cost_of_Living_and_Rent_Index": 30.25,
+    "groceries": 41.63,
+    "restaurant": 25.04,
+    "Local_purchasing": 82.84
+  },
+  {
+    "city": "Warsaw",
+    "country": "Poland",
+    "Cost_of_Living_and_Rent_Index": 32.04,
+    "groceries": 31.63,
+    "restaurant": 39.89,
+    "Local_purchasing": 76.34
+  },
+  {
+    "city": "Shenzhen",
+    "country": "China",
+    "Cost_of_Living_and_Rent_Index": 34.37,
+    "groceries": 39.71,
+    "restaurant": 29.22,
+    "Local_purchasing": 86.03
+  },
+  {
+    "city": "Kuching",
+    "country": "Malaysia",
+    "Cost_of_Living_and_Rent_Index": 24.92,
+    "groceries": 42.98,
+    "restaurant": 18.94,
+    "Local_purchasing": 40.85
+  },
+  {
+    "city": "Kota Kinabalu",
+    "country": "Malaysia",
+    "Cost_of_Living_and_Rent_Index": 27.92,
+    "groceries": 42.93,
+    "restaurant": 22.28,
+    "Local_purchasing": 41.36
+  },
+  {
+    "city": "Peterborough",
+    "country": "United Kingdom",
+    "Cost_of_Living_and_Rent_Index": 31.32,
+    "groceries": 22.53,
+    "restaurant": 42.75,
+    "Local_purchasing": 139.17
+  },
+  {
+    "city": "Nairobi",
+    "country": "Kenya",
+    "Cost_of_Living_and_Rent_Index": 28.23,
+    "groceries": 36.97,
+    "restaurant": 35.98,
+    "Local_purchasing": 30.62
+  },
+  {
+    "city": "Jakarta",
+    "country": "Indonesia",
+    "Cost_of_Living_and_Rent_Index": 29.39,
+    "groceries": 41.08,
+    "restaurant": 24.79,
+    "Local_purchasing": 28.95
+  },
+  {
+    "city": "Cape Town",
+    "country": "South Africa",
+    "Cost_of_Living_and_Rent_Index": 34.86,
+    "groceries": 32.79,
+    "restaurant": 43.81,
+    "Local_purchasing": 73.59
+  },
+  {
+    "city": "Bali",
+    "country": "Indonesia",
+    "Cost_of_Living_and_Rent_Index": 25.84,
+    "groceries": 44.51,
+    "restaurant": 24.08,
+    "Local_purchasing": 27.2
+  },
+  {
+    "city": "Lima",
+    "country": "Peru",
+    "Cost_of_Living_and_Rent_Index": 29.18,
+    "groceries": 36.03,
+    "restaurant": 31.08,
+    "Local_purchasing": 39.34
+  },
+  {
+    "city": "Olomouc",
+    "country": "Czech Republic",
+    "Cost_of_Living_and_Rent_Index": 27.61,
+    "groceries": 36.53,
+    "restaurant": 30.38,
+    "Local_purchasing": 79.2
+  },
+  {
+    "city": "Gdynia",
+    "country": "Poland",
+    "Cost_of_Living_and_Rent_Index": 28.29,
+    "groceries": 30.93,
+    "restaurant": 38.21,
+    "Local_purchasing": 70.1
+  },
+  {
+    "city": "Recife",
+    "country": "Brazil",
+    "Cost_of_Living_and_Rent_Index": 25.29,
+    "groceries": 30.6,
+    "restaurant": 32.84,
+    "Local_purchasing": 27.96
+  },
+  {
+    "city": "Porto Alegre",
+    "country": "Brazil",
+    "Cost_of_Living_and_Rent_Index": 26.32,
+    "groceries": 28.08,
+    "restaurant": 32.38,
+    "Local_purchasing": 48.63
+  },
+  {
+    "city": "Ostrava",
+    "country": "Czech Republic",
+    "Cost_of_Living_and_Rent_Index": 25.9,
+    "groceries": 33.62,
+    "restaurant": 30.99,
+    "Local_purchasing": 84.1
+  },
+  {
+    "city": "Chiang Mai",
+    "country": "Thailand",
+    "Cost_of_Living_and_Rent_Index": 26.57,
+    "groceries": 46.11,
+    "restaurant": 20.17,
+    "Local_purchasing": 33.13
+  },
+  {
+    "city": "Belo Horizonte",
+    "country": "Brazil",
+    "Cost_of_Living_and_Rent_Index": 25.99,
+    "groceries": 26.77,
+    "restaurant": 33.38,
+    "Local_purchasing": 35.94
+  },
+  {
+    "city": "Durban",
+    "country": "South Africa",
+    "Cost_of_Living_and_Rent_Index": 27.67,
+    "groceries": 31.46,
+    "restaurant": 40.72,
+    "Local_purchasing": 98.98
+  },
+  {
+    "city": "Bucharest",
+    "country": "Romania",
+    "Cost_of_Living_and_Rent_Index": 27.36,
+    "groceries": 30.96,
+    "restaurant": 39.75,
+    "Local_purchasing": 58.57
+  },
+  {
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "Cost_of_Living_and_Rent_Index": 27.1,
+    "groceries": 33.08,
+    "restaurant": 32.6,
+    "Local_purchasing": 61.94
+  },
+  {
+    "city": "Guangzhou",
+    "country": "China",
+    "Cost_of_Living_and_Rent_Index": 30.19,
+    "groceries": 37.63,
+    "restaurant": 27.12,
+    "Local_purchasing": 82.93
+  },
+  {
+    "city": "Florianopolis",
+    "country": "Brazil",
+    "Cost_of_Living_and_Rent_Index": 26.92,
+    "groceries": 28.9,
+    "restaurant": 36.15,
+    "Local_purchasing": 40.22
+  },
+  {
+    "city": "Belgrade",
+    "country": "Serbia",
+    "Cost_of_Living_and_Rent_Index": 26.58,
+    "groceries": 28.17,
+    "restaurant": 35.39,
+    "Local_purchasing": 41.02
+  },
+  {
+    "city": "Wroclaw",
+    "country": "Poland",
+    "Cost_of_Living_and_Rent_Index": 29.27,
+    "groceries": 31.51,
+    "restaurant": 34.82,
+    "Local_purchasing": 76.7
+  },
+  {
+    "city": "Podgorica",
+    "country": "Montenegro",
+    "Cost_of_Living_and_Rent_Index": 25.56,
+    "groceries": 29.54,
+    "restaurant": 34.44,
+    "Local_purchasing": 52.16
+  },
+  {
+    "city": "Krakow (Cracow)",
+    "country": "Poland",
+    "Cost_of_Living_and_Rent_Index": 29.02,
+    "groceries": 29.92,
+    "restaurant": 33.78,
+    "Local_purchasing": 70.68
+  },
+  {
+    "city": "Port Elizabeth",
+    "country": "South Africa",
+    "Cost_of_Living_and_Rent_Index": 26.17,
+    "groceries": 31.14,
+    "restaurant": 36.24,
+    "Local_purchasing": 76.26
+  },
+  {
+    "city": "Saint Petersburg",
+    "country": "Russia",
+    "Cost_of_Living_and_Rent_Index": 28.98,
+    "groceries": 30.71,
+    "restaurant": 40.88,
+    "Local_purchasing": 57.01
+  },
+  {
+    "city": "Sarajevo",
+    "country": "Bosnia And Herzegovina",
+    "Cost_of_Living_and_Rent_Index": 25.03,
+    "groceries": 29.94,
+    "restaurant": 29.14,
+    "Local_purchasing": 49.7
+  },
+  {
+    "city": "Varna",
+    "country": "Bulgaria",
+    "Cost_of_Living_and_Rent_Index": 24.63,
+    "groceries": 32.69,
+    "restaurant": 34.34,
+    "Local_purchasing": 52.57
+  },
+  {
+    "city": "Poznan",
+    "country": "Poland",
+    "Cost_of_Living_and_Rent_Index": 26.81,
+    "groceries": 30.18,
+    "restaurant": 33.34,
+    "Local_purchasing": 77.35
+  },
+  {
+    "city": "Constanta",
+    "country": "Romania",
+    "Cost_of_Living_and_Rent_Index": 24.48,
+    "groceries": 27.69,
+    "restaurant": 38.34,
+    "Local_purchasing": 53.5
+  },
+  {
+    "city": "Rabat",
+    "country": "Morocco",
+    "Cost_of_Living_and_Rent_Index": 26.67,
+    "groceries": 32.89,
+    "restaurant": 26.71,
+    "Local_purchasing": 46.21
+  },
+  {
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "Cost_of_Living_and_Rent_Index": 25.87,
+    "groceries": 29.66,
+    "restaurant": 37.47,
+    "Local_purchasing": 59.76
+  },
+  {
+    "city": "Bydgoszcz",
+    "country": "Poland",
+    "Cost_of_Living_and_Rent_Index": 27.23,
+    "groceries": 29.79,
+    "restaurant": 30.29,
+    "Local_purchasing": 66.32
+  },
+  {
+    "city": "Szeged",
+    "country": "Hungary",
+    "Cost_of_Living_and_Rent_Index": 24.77,
+    "groceries": 30.26,
+    "restaurant": 28.58,
+    "Local_purchasing": 47.26
+  },
+  {
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "Cost_of_Living_and_Rent_Index": 26.37,
+    "groceries": 35.91,
+    "restaurant": 21.05,
+    "Local_purchasing": 44.08
+  },
+  {
+    "city": "Curitiba",
+    "country": "Brazil",
+    "Cost_of_Living_and_Rent_Index": 24.77,
+    "groceries": 25.26,
+    "restaurant": 32.27,
+    "Local_purchasing": 38.94
+  },
+  {
+    "city": "Timisoara",
+    "country": "Romania",
+    "Cost_of_Living_and_Rent_Index": 25.2,
+    "groceries": 30.87,
+    "restaurant": 35.35,
+    "Local_purchasing": 55.46
+  },
+  {
+    "city": "Cluj-Napoca",
+    "country": "Romania",
+    "Cost_of_Living_and_Rent_Index": 26.36,
+    "groceries": 31.34,
+    "restaurant": 33.54,
+    "Local_purchasing": 56.94
+  },
+  {
+    "city": "Debrecen",
+    "country": "Hungary",
+    "Cost_of_Living_and_Rent_Index": 24.44,
+    "groceries": 29.62,
+    "restaurant": 30.17,
+    "Local_purchasing": 56.37
+  },
+  {
+    "city": "Suzhou",
+    "country": "China",
+    "Cost_of_Living_and_Rent_Index": 27.45,
+    "groceries": 36.03,
+    "restaurant": 30.16,
+    "Local_purchasing": 94
+  },
+  {
+    "city": "Manila",
+    "country": "Philippines",
+    "Cost_of_Living_and_Rent_Index": 27.46,
+    "groceries": 31.73,
+    "restaurant": 24.11,
+    "Local_purchasing": 40.04
+  },
+  {
+    "city": "Istanbul",
+    "country": "Turkey",
+    "Cost_of_Living_and_Rent_Index": 25.24,
+    "groceries": 31.34,
+    "restaurant": 27.85,
+    "Local_purchasing": 50.13
+  },
+  {
+    "city": "Ho Chi Minh City",
+    "country": "Vietnam",
+    "Cost_of_Living_and_Rent_Index": 27.69,
+    "groceries": 36.25,
+    "restaurant": 19.56,
+    "Local_purchasing": 30.36
+  },
+  {
+    "city": "Katowice",
+    "country": "Poland",
+    "Cost_of_Living_and_Rent_Index": 25.11,
+    "groceries": 27.9,
+    "restaurant": 32.27,
+    "Local_purchasing": 77.78
+  },
+  {
+    "city": "Szczecin",
+    "country": "Poland",
+    "Cost_of_Living_and_Rent_Index": 25.48,
+    "groceries": 26.88,
+    "restaurant": 30.21,
+    "Local_purchasing": 61.98
+  },
+  {
+    "city": "Chelyabinsk",
+    "country": "Russia",
+    "Cost_of_Living_and_Rent_Index": 23.25,
+    "groceries": 32.57,
+    "restaurant": 35.96,
+    "Local_purchasing": 45
+  },
+  {
+    "city": "Tirana",
+    "country": "Albania",
+    "Cost_of_Living_and_Rent_Index": 24.43,
+    "groceries": 28.33,
+    "restaurant": 31.35,
+    "Local_purchasing": 35.89
+  },
+  {
+    "city": "Lodz",
+    "country": "Poland",
+    "Cost_of_Living_and_Rent_Index": 25.08,
+    "groceries": 27.34,
+    "restaurant": 31.56,
+    "Local_purchasing": 71.81
+  },
+  {
+    "city": "Brasov",
+    "country": "Romania",
+    "Cost_of_Living_and_Rent_Index": 24.65,
+    "groceries": 28.62,
+    "restaurant": 32.52,
+    "Local_purchasing": 60.25
+  },
+  {
+    "city": "Banja Luka",
+    "country": "Bosnia And Herzegovina",
+    "Cost_of_Living_and_Rent_Index": 22.78,
+    "groceries": 28.38,
+    "restaurant": 23.94,
+    "Local_purchasing": 50.19
+  },
+  {
+    "city": "Iasi",
+    "country": "Romania",
+    "Cost_of_Living_and_Rent_Index": 23.92,
+    "groceries": 29.24,
+    "restaurant": 32.88,
+    "Local_purchasing": 53.7
+  },
+  {
+    "city": "Plovdiv",
+    "country": "Bulgaria",
+    "Cost_of_Living_and_Rent_Index": 22.92,
+    "groceries": 29.56,
+    "restaurant": 30.19,
+    "Local_purchasing": 60.2
+  },
+  {
+    "city": "Cebu",
+    "country": "Philippines",
+    "Cost_of_Living_and_Rent_Index": 24.16,
+    "groceries": 34.29,
+    "restaurant": 21.53,
+    "Local_purchasing": 24.37
+  },
+  {
+    "city": "Yekaterinburg",
+    "country": "Russia",
+    "Cost_of_Living_and_Rent_Index": 24.6,
+    "groceries": 29.43,
+    "restaurant": 32.23,
+    "Local_purchasing": 53.01
+  },
+  {
+    "city": "Burgas",
+    "country": "Bulgaria",
+    "Cost_of_Living_and_Rent_Index": 22.56,
+    "groceries": 29.78,
+    "restaurant": 30.88,
+    "Local_purchasing": 53.02
+  },
+  {
+    "city": "Chengdu",
+    "country": "China",
+    "Cost_of_Living_and_Rent_Index": 24.55,
+    "groceries": 33.43,
+    "restaurant": 28.2,
+    "Local_purchasing": 82.62
+  },
+  {
+    "city": "Cuenca",
+    "country": "Ecuador",
+    "Cost_of_Living_and_Rent_Index": 24.06,
+    "groceries": 31.13,
+    "restaurant": 25.89,
+    "Local_purchasing": 44.63
+  },
+  {
+    "city": "Lublin",
+    "country": "Poland",
+    "Cost_of_Living_and_Rent_Index": 27.28,
+    "groceries": 27.87,
+    "restaurant": 28.86,
+    "Local_purchasing": 59.11
+  },
+  {
+    "city": "Colombo",
+    "country": "Sri Lanka",
+    "Cost_of_Living_and_Rent_Index": 24.11,
+    "groceries": 37.8,
+    "restaurant": 21.2,
+    "Local_purchasing": 27.54
+  },
+  {
+    "city": "Samara",
+    "country": "Russia",
+    "Cost_of_Living_and_Rent_Index": 24.26,
+    "groceries": 28.06,
+    "restaurant": 40.12,
+    "Local_purchasing": 42.96
+  },
+  {
+    "city": "Arad",
+    "country": "Romania",
+    "Cost_of_Living_and_Rent_Index": 22.96,
+    "groceries": 28.54,
+    "restaurant": 28.06,
+    "Local_purchasing": 61.04
+  },
+  {
+    "city": "Surabaya",
+    "country": "Indonesia",
+    "Cost_of_Living_and_Rent_Index": 22.14,
+    "groceries": 38.13,
+    "restaurant": 16.96,
+    "Local_purchasing": 37.81
+  },
+  {
+    "city": "Casablanca",
+    "country": "Morocco",
+    "Cost_of_Living_and_Rent_Index": 26.03,
+    "groceries": 28.81,
+    "restaurant": 28.35,
+    "Local_purchasing": 40.76
+  },
+  {
+    "city": "Sibiu",
+    "country": "Romania",
+    "Cost_of_Living_and_Rent_Index": 23.02,
+    "groceries": 28.98,
+    "restaurant": 29.59,
+    "Local_purchasing": 56.52
+  },
+  {
+    "city": "Bandung",
+    "country": "Indonesia",
+    "Cost_of_Living_and_Rent_Index": 22.23,
+    "groceries": 37.78,
+    "restaurant": 15.1,
+    "Local_purchasing": 28.81
+  },
+  {
+    "city": "Paramaribo",
+    "country": "Suriname",
+    "Cost_of_Living_and_Rent_Index": 21.93,
+    "groceries": 37.34,
+    "restaurant": 28.82,
+    "Local_purchasing": 25.91
+  },
+  {
+    "city": "Kaliningrad",
+    "country": "Russia",
+    "Cost_of_Living_and_Rent_Index": 22.23,
+    "groceries": 28.28,
+    "restaurant": 36.72,
+    "Local_purchasing": 41.5
+  },
+  {
+    "city": "Novi Sad",
+    "country": "Serbia",
+    "Cost_of_Living_and_Rent_Index": 21.97,
+    "groceries": 26.62,
+    "restaurant": 27.8,
+    "Local_purchasing": 50.21
+  },
+  {
+    "city": "Bogota",
+    "country": "Colombia",
+    "Cost_of_Living_and_Rent_Index": 24.44,
+    "groceries": 26.09,
+    "restaurant": 27.92,
+    "Local_purchasing": 37.44
+  },
+  {
+    "city": "Yogyakarta",
+    "country": "Indonesia",
+    "Cost_of_Living_and_Rent_Index": 21.85,
+    "groceries": 38.34,
+    "restaurant": 13.44,
+    "Local_purchasing": 30.83
+  },
+  {
+    "city": "Astana",
+    "country": "Kazakhstan",
+    "Cost_of_Living_and_Rent_Index": 24.06,
+    "groceries": 27.81,
+    "restaurant": 37,
+    "Local_purchasing": 41.22
+  },
+  {
+    "city": "Ankara",
+    "country": "Turkey",
+    "Cost_of_Living_and_Rent_Index": 21.42,
+    "groceries": 29.59,
+    "restaurant": 25.13,
+    "Local_purchasing": 64.55
+  },
+  {
+    "city": "Skopje",
+    "country": "Macedonia",
+    "Cost_of_Living_and_Rent_Index": 22.52,
+    "groceries": 26.04,
+    "restaurant": 28.69,
+    "Local_purchasing": 41.45
+  },
+  {
+    "city": "Oradea",
+    "country": "Romania",
+    "Cost_of_Living_and_Rent_Index": 21.41,
+    "groceries": 27.89,
+    "restaurant": 26.3,
+    "Local_purchasing": 51.3
+  },
+  {
+    "city": "Nis",
+    "country": "Serbia",
+    "Cost_of_Living_and_Rent_Index": 20.66,
+    "groceries": 25.56,
+    "restaurant": 29.16,
+    "Local_purchasing": 40.99
+  },
+  {
+    "city": "Tehran",
+    "country": "Iran",
+    "Cost_of_Living_and_Rent_Index": 26.75,
+    "groceries": 28.27,
+    "restaurant": 29.54,
+    "Local_purchasing": 40.89
+  },
+  {
+    "city": "Mexico City",
+    "country": "Mexico",
+    "Cost_of_Living_and_Rent_Index": 26.49,
+    "groceries": 29.88,
+    "restaurant": 30.51,
+    "Local_purchasing": 51.4
+  },
+  {
+    "city": "Ulaanbaatar",
+    "country": "Mongolia",
+    "Cost_of_Living_and_Rent_Index": 22.47,
+    "groceries": 31.33,
+    "restaurant": 24.29,
+    "Local_purchasing": 33.64
+  },
+  {
+    "city": "Monterrey",
+    "country": "Mexico",
+    "Cost_of_Living_and_Rent_Index": 23.31,
+    "groceries": 29.17,
+    "restaurant": 33.07,
+    "Local_purchasing": 79.87
+  },
+  {
+    "city": "Minsk",
+    "country": "Belarus",
+    "Cost_of_Living_and_Rent_Index": 23.13,
+    "groceries": 26.58,
+    "restaurant": 38.05,
+    "Local_purchasing": 46.29
+  },
+  {
+    "city": "Nizhny Novgorod",
+    "country": "Russia",
+    "Cost_of_Living_and_Rent_Index": 22.88,
+    "groceries": 27.39,
+    "restaurant": 34.16,
+    "Local_purchasing": 40.78
+  },
+  {
+    "city": "Barranquilla",
+    "country": "Colombia",
+    "Cost_of_Living_and_Rent_Index": 22.44,
+    "groceries": 25.05,
+    "restaurant": 24.07,
+    "Local_purchasing": 42.73
+  },
+  {
+    "city": "Izmir",
+    "country": "Turkey",
+    "Cost_of_Living_and_Rent_Index": 21.68,
+    "groceries": 28.41,
+    "restaurant": 23.59,
+    "Local_purchasing": 56.87
+  },
+  {
+    "city": "Medellin",
+    "country": "Colombia",
+    "Cost_of_Living_and_Rent_Index": 23.09,
+    "groceries": 27.87,
+    "restaurant": 24.5,
+    "Local_purchasing": 34.02
+  },
+  {
+    "city": "Antalya",
+    "country": "Turkey",
+    "Cost_of_Living_and_Rent_Index": 20.64,
+    "groceries": 31.25,
+    "restaurant": 27.42,
+    "Local_purchasing": 61.79
+  },
+  {
+    "city": "Chisinau",
+    "country": "Moldova",
+    "Cost_of_Living_and_Rent_Index": 21.87,
+    "groceries": 25.05,
+    "restaurant": 30.43,
+    "Local_purchasing": 32.92
+  },
+  {
+    "city": "Bursa",
+    "country": "Turkey",
+    "Cost_of_Living_and_Rent_Index": 20.48,
+    "groceries": 26.98,
+    "restaurant": 21.44,
+    "Local_purchasing": 57.91
+  },
+  {
+    "city": "Kazan",
+    "country": "Russia",
+    "Cost_of_Living_and_Rent_Index": 22.95,
+    "groceries": 26.46,
+    "restaurant": 39.27,
+    "Local_purchasing": 51.62
+  },
+  {
+    "city": "Novosibirsk",
+    "country": "Russia",
+    "Cost_of_Living_and_Rent_Index": 22.86,
+    "groceries": 28.36,
+    "restaurant": 31.16,
+    "Local_purchasing": 49.09
+  },
+  {
+    "city": "Davao",
+    "country": "Philippines",
+    "Cost_of_Living_and_Rent_Index": 21.13,
+    "groceries": 30.27,
+    "restaurant": 20.52,
+    "Local_purchasing": 26.4
+  },
+  {
+    "city": "Asuncion",
+    "country": "Paraguay",
+    "Cost_of_Living_and_Rent_Index": 22.62,
+    "groceries": 26.16,
+    "restaurant": 26.26,
+    "Local_purchasing": 37.3
+  },
+  {
+    "city": "Algiers",
+    "country": "Algeria",
+    "Cost_of_Living_and_Rent_Index": 21.84,
+    "groceries": 33.22,
+    "restaurant": 21.35,
+    "Local_purchasing": 36.42
+  },
+  {
+    "city": "Lagos",
+    "country": "Nigeria",
+    "Cost_of_Living_and_Rent_Index": 31.86,
+    "groceries": 27.68,
+    "restaurant": 27.83,
+    "Local_purchasing": 19.41
+  },
+  {
+    "city": "Dumaguete",
+    "country": "Philippines",
+    "Cost_of_Living_and_Rent_Index": 20.97,
+    "groceries": 35.44,
+    "restaurant": 16.61,
+    "Local_purchasing": 15.06
+  },
+  {
+    "city": "Yerevan",
+    "country": "Armenia",
+    "Cost_of_Living_and_Rent_Index": 22.04,
+    "groceries": 25.4,
+    "restaurant": 33.31,
+    "Local_purchasing": 33.43
+  },
+  {
+    "city": "Tijuana",
+    "country": "Mexico",
+    "Cost_of_Living_and_Rent_Index": 22.31,
+    "groceries": 27.5,
+    "restaurant": 30.98,
+    "Local_purchasing": 57.98
+  },
+  {
+    "city": "Almaty",
+    "country": "Kazakhstan",
+    "Cost_of_Living_and_Rent_Index": 22.65,
+    "groceries": 24.5,
+    "restaurant": 31.66,
+    "Local_purchasing": 43.4
+  },
+  {
+    "city": "Rostov-na-donu",
+    "country": "Russia",
+    "Cost_of_Living_and_Rent_Index": 22,
+    "groceries": 24.78,
+    "restaurant": 33.68,
+    "Local_purchasing": 41.38
+  },
+  {
+    "city": "Krasnodar",
+    "country": "Russia",
+    "Cost_of_Living_and_Rent_Index": 22.01,
+    "groceries": 25.66,
+    "restaurant": 31.59,
+    "Local_purchasing": 49.19
+  },
+  {
+    "city": "Kathmandu",
+    "country": "Nepal",
+    "Cost_of_Living_and_Rent_Index": 19.23,
+    "groceries": 27.07,
+    "restaurant": 20.72,
+    "Local_purchasing": 26.48
+  },
+  {
+    "city": "Craiova",
+    "country": "Romania",
+    "Cost_of_Living_and_Rent_Index": 20.16,
+    "groceries": 25.59,
+    "restaurant": 24.92,
+    "Local_purchasing": 59.11
+  },
+  {
+    "city": "Voronezh",
+    "country": "Russia",
+    "Cost_of_Living_and_Rent_Index": 20.22,
+    "groceries": 26.77,
+    "restaurant": 29.6,
+    "Local_purchasing": 50.01
+  },
+  {
+    "city": "Quezon City",
+    "country": "Philippines",
+    "Cost_of_Living_and_Rent_Index": 20.62,
+    "groceries": 26.12,
+    "restaurant": 17.97,
+    "Local_purchasing": 27.91
+  },
+  {
+    "city": "Dhaka",
+    "country": "Bangladesh",
+    "Cost_of_Living_and_Rent_Index": 19.48,
+    "groceries": 28.1,
+    "restaurant": 20.73,
+    "Local_purchasing": 41.15
+  },
+  {
+    "city": "Kampala",
+    "country": "Uganda",
+    "Cost_of_Living_and_Rent_Index": 21.02,
+    "groceries": 25.6,
+    "restaurant": 25.09,
+    "Local_purchasing": 24.38
+  },
+  {
+    "city": "Guadalajara",
+    "country": "Mexico",
+    "Cost_of_Living_and_Rent_Index": 21.06,
+    "groceries": 28.92,
+    "restaurant": 28.03,
+    "Local_purchasing": 64.69
+  },
+  {
+    "city": "Cancun",
+    "country": "Mexico",
+    "Cost_of_Living_and_Rent_Index": 21.39,
+    "groceries": 26.75,
+    "restaurant": 31.52,
+    "Local_purchasing": 53.68
+  },
+  {
+    "city": "Queretaro",
+    "country": "Mexico",
+    "Cost_of_Living_and_Rent_Index": 20.72,
+    "groceries": 28.38,
+    "restaurant": 27.45,
+    "Local_purchasing": 57.83
+  },
+  {
+    "city": "Gurgaon",
+    "country": "India",
+    "Cost_of_Living_and_Rent_Index": 20.89,
+    "groceries": 26.63,
+    "restaurant": 27.52,
+    "Local_purchasing": 113.89
+  },
+  {
+    "city": "Cali",
+    "country": "Colombia",
+    "Cost_of_Living_and_Rent_Index": 19.62,
+    "groceries": 24.69,
+    "restaurant": 23.02,
+    "Local_purchasing": 39.31
+  },
+  {
+    "city": "Tbilisi",
+    "country": "Georgia",
+    "Cost_of_Living_and_Rent_Index": 20.87,
+    "groceries": 23.36,
+    "restaurant": 29.22,
+    "Local_purchasing": 39.57
+  },
+  {
+    "city": "Odessa",
+    "country": "Ukraine",
+    "Cost_of_Living_and_Rent_Index": 20.7,
+    "groceries": 21.03,
+    "restaurant": 25.5,
+    "Local_purchasing": 31.26
+  },
+  {
+    "city": "Tashkent",
+    "country": "Uzbekistan",
+    "Cost_of_Living_and_Rent_Index": 20.23,
+    "groceries": 24.99,
+    "restaurant": 21.66,
+    "Local_purchasing": 25.17
+  },
+  {
+    "city": "Puerto Vallarta",
+    "country": "Mexico",
+    "Cost_of_Living_and_Rent_Index": 22.67,
+    "groceries": 26.85,
+    "restaurant": 29.38,
+    "Local_purchasing": 54.23
+  },
+  {
+    "city": "Kiev",
+    "country": "Ukraine",
+    "Cost_of_Living_and_Rent_Index": 22.37,
+    "groceries": 23.17,
+    "restaurant": 23.51,
+    "Local_purchasing": 39.37
+  },
+  {
+    "city": "Baku",
+    "country": "Azerbaijan",
+    "Cost_of_Living_and_Rent_Index": 19.89,
+    "groceries": 24.32,
+    "restaurant": 31.25,
+    "Local_purchasing": 34.29
+  },
+  {
+    "city": "Merida",
+    "country": "Mexico",
+    "Cost_of_Living_and_Rent_Index": 18.19,
+    "groceries": 26.53,
+    "restaurant": 24.44,
+    "Local_purchasing": 40.29
+  },
+  {
+    "city": "Mumbai",
+    "country": "India",
+    "Cost_of_Living_and_Rent_Index": 24.9,
+    "groceries": 26.63,
+    "restaurant": 26.36,
+    "Local_purchasing": 67.69
+  },
+  {
+    "city": "Puebla",
+    "country": "Mexico",
+    "Cost_of_Living_and_Rent_Index": 18.47,
+    "groceries": 24.07,
+    "restaurant": 24.36,
+    "Local_purchasing": 44.8
+  },
+  {
+    "city": "Delhi",
+    "country": "India",
+    "Cost_of_Living_and_Rent_Index": 19.23,
+    "groceries": 25.8,
+    "restaurant": 25.3,
+    "Local_purchasing": 77.75
+  },
+  {
+    "city": "Noida",
+    "country": "India",
+    "Cost_of_Living_and_Rent_Index": 17.96,
+    "groceries": 25.14,
+    "restaurant": 24.53,
+    "Local_purchasing": 89.48
+  },
+  {
+    "city": "Dnipro",
+    "country": "Ukraine",
+    "Cost_of_Living_and_Rent_Index": 18.23,
+    "groceries": 20.28,
+    "restaurant": 24.78,
+    "Local_purchasing": 36.44
+  },
+  {
+    "city": "Caracas",
+    "country": "Venezuela",
+    "Cost_of_Living_and_Rent_Index": 18.64,
+    "groceries": 28.4,
+    "restaurant": 23.63,
+    "Local_purchasing": 4.18
+  },
+  {
+    "city": "Pune",
+    "country": "India",
+    "Cost_of_Living_and_Rent_Index": 17.93,
+    "groceries": 26.76,
+    "restaurant": 22.68,
+    "Local_purchasing": 86.55
+  },
+  {
+    "city": "Lviv",
+    "country": "Ukraine",
+    "Cost_of_Living_and_Rent_Index": 19.04,
+    "groceries": 21.17,
+    "restaurant": 20.42,
+    "Local_purchasing": 30.39
+  },
+  {
+    "city": "Ludhiana",
+    "country": "India",
+    "Cost_of_Living_and_Rent_Index": 16.39,
+    "groceries": 25.51,
+    "restaurant": 21.18,
+    "Local_purchasing": 68.43
+  },
+  {
+    "city": "Bangalore",
+    "country": "India",
+    "Cost_of_Living_and_Rent_Index": 18.2,
+    "groceries": 26.53,
+    "restaurant": 18.7,
+    "Local_purchasing": 96.51
+  },
+  {
+    "city": "Kharkiv",
+    "country": "Ukraine",
+    "Cost_of_Living_and_Rent_Index": 18.23,
+    "groceries": 19.4,
+    "restaurant": 21.91,
+    "Local_purchasing": 31.62
+  },
+  {
+    "city": "Tunis",
+    "country": "Tunisia",
+    "Cost_of_Living_and_Rent_Index": 17.21,
+    "groceries": 24.26,
+    "restaurant": 15.87,
+    "Local_purchasing": 35.51
+  },
+  {
+    "city": "Pristina",
+    "country": "Kosovo (Disputed Territory)",
+    "Cost_of_Living_and_Rent_Index": 17.78,
+    "groceries": 22.23,
+    "restaurant": 21.1,
+    "Local_purchasing": 68.94
+  },
+  {
+    "city": "Chandigarh",
+    "country": "India",
+    "Cost_of_Living_and_Rent_Index": 16.39,
+    "groceries": 25.46,
+    "restaurant": 19.17,
+    "Local_purchasing": 64.37
+  },
+  {
+    "city": "Islamabad",
+    "country": "Pakistan",
+    "Cost_of_Living_and_Rent_Index": 17.16,
+    "groceries": 23.37,
+    "restaurant": 19.2,
+    "Local_purchasing": 50.11
+  },
+  {
+    "city": "Lahore",
+    "country": "Pakistan",
+    "Cost_of_Living_and_Rent_Index": 16.1,
+    "groceries": 22.76,
+    "restaurant": 23.12,
+    "Local_purchasing": 39.75
+  },
+  {
+    "city": "Cairo",
+    "country": "Egypt",
+    "Cost_of_Living_and_Rent_Index": 16.01,
+    "groceries": 21.31,
+    "restaurant": 23.26,
+    "Local_purchasing": 26.31
+  },
+  {
+    "city": "Jaipur",
+    "country": "India",
+    "Cost_of_Living_and_Rent_Index": 15.76,
+    "groceries": 23.87,
+    "restaurant": 18.29,
+    "Local_purchasing": 77.1
+  },
+  {
+    "city": "Indore",
+    "country": "India",
+    "Cost_of_Living_and_Rent_Index": 15.46,
+    "groceries": 25.73,
+    "restaurant": 15.97,
+    "Local_purchasing": 50.73
+  },
+  {
+    "city": "Thane",
+    "country": "India",
+    "Cost_of_Living_and_Rent_Index": 18.01,
+    "groceries": 24.18,
+    "restaurant": 20.97,
+    "Local_purchasing": 81
+  },
+  {
+    "city": "Chennai",
+    "country": "India",
+    "Cost_of_Living_and_Rent_Index": 16.53,
+    "groceries": 25.91,
+    "restaurant": 15.97,
+    "Local_purchasing": 67.87
+  },
+  {
+    "city": "Kolkata",
+    "country": "India",
+    "Cost_of_Living_and_Rent_Index": 15.9,
+    "groceries": 23.35,
+    "restaurant": 21.09,
+    "Local_purchasing": 60.41
+  },
+  {
+    "city": "Lucknow (Lakhnau)",
+    "country": "India",
+    "Cost_of_Living_and_Rent_Index": 15.14,
+    "groceries": 23.21,
+    "restaurant": 19.82,
+    "Local_purchasing": 76.5
+  },
+  {
+    "city": "Goa",
+    "country": "India",
+    "Cost_of_Living_and_Rent_Index": 15.76,
+    "groceries": 24.63,
+    "restaurant": 20.14,
+    "Local_purchasing": 54.97
+  },
+  {
+    "city": "Ahmedabad",
+    "country": "India",
+    "Cost_of_Living_and_Rent_Index": 15.22,
+    "groceries": 24.89,
+    "restaurant": 17.4,
+    "Local_purchasing": 70.18
+  },
+  {
+    "city": "Alexandria",
+    "country": "Egypt",
+    "Cost_of_Living_and_Rent_Index": 14.33,
+    "groceries": 21.09,
+    "restaurant": 19.02,
+    "Local_purchasing": 23.06
+  },
+  {
+    "city": "Karachi",
+    "country": "Pakistan",
+    "Cost_of_Living_and_Rent_Index": 15.5,
+    "groceries": 20.89,
+    "restaurant": 18.57,
+    "Local_purchasing": 36.66
+  },
+  {
+    "city": "Sumy",
+    "country": "Ukraine",
+    "Cost_of_Living_and_Rent_Index": 14.33,
+    "groceries": 18.01,
+    "restaurant": 15.53,
+    "Local_purchasing": 28.43
+  },
+  {
+    "city": "Surat",
+    "country": "India",
+    "Cost_of_Living_and_Rent_Index": 14.31,
+    "groceries": 23.78,
+    "restaurant": 17.75,
+    "Local_purchasing": 66.45
+  },
+  {
+    "city": "Hyderabad",
+    "country": "India",
+    "Cost_of_Living_and_Rent_Index": 15.26,
+    "groceries": 23.02,
+    "restaurant": 17.35,
+    "Local_purchasing": 78
+  },
+  {
+    "city": "Nagpur",
+    "country": "India",
+    "Cost_of_Living_and_Rent_Index": 14.12,
+    "groceries": 21.62,
+    "restaurant": 16.99,
+    "Local_purchasing": 98.45
+  },
+  {
+    "city": "Guwahati",
+    "country": "India",
+    "Cost_of_Living_and_Rent_Index": 13.85,
+    "groceries": 22.91,
+    "restaurant": 13.7,
+    "Local_purchasing": 71.26
+  },
+  {
+    "city": "Mysore",
+    "country": "India",
+    "Cost_of_Living_and_Rent_Index": 13.85,
+    "groceries": 23.87,
+    "restaurant": 13.38,
+    "Local_purchasing": 45.78
+  },
+  {
+    "city": "Bhubaneswar",
+    "country": "India",
+    "Cost_of_Living_and_Rent_Index": 13.88,
+    "groceries": 23.66,
+    "restaurant": 13.42,
+    "Local_purchasing": 67
+  },
+  {
+    "city": "Mangalore",
+    "country": "India",
+    "Cost_of_Living_and_Rent_Index": 14.19,
+    "groceries": 22.21,
+    "restaurant": 15.92,
+    "Local_purchasing": 79.58
+  },
+  {
+    "city": "Coimbatore",
+    "country": "India",
+    "Cost_of_Living_and_Rent_Index": 14.25,
+    "groceries": 22.45,
+    "restaurant": 14.39,
+    "Local_purchasing": 56.46
+  },
+  {
+    "city": "Bhopal",
+    "country": "India",
+    "Cost_of_Living_and_Rent_Index": 13.41,
+    "groceries": 20.13,
+    "restaurant": 15.56,
+    "Local_purchasing": 68.22
+  },
+  {
+    "city": "Vadodara",
+    "country": "India",
+    "Cost_of_Living_and_Rent_Index": 13.52,
+    "groceries": 22.26,
+    "restaurant": 14.43,
+    "Local_purchasing": 74.59
+  },
+  {
+    "city": "Kochi",
+    "country": "India",
+    "Cost_of_Living_and_Rent_Index": 14.02,
+    "groceries": 21.93,
+    "restaurant": 12.2,
+    "Local_purchasing": 73.42
+  },
+  {
+    "city": "Visakhapatnam",
+    "country": "India",
+    "Cost_of_Living_and_Rent_Index": 13.35,
+    "groceries": 21.09,
+    "restaurant": 17.09,
+    "Local_purchasing": 55.47
+  },
+  {
+    "city": "Navi Mumbai",
+    "country": "India",
+    "Cost_of_Living_and_Rent_Index": 12.39,
+    "groceries": 19.21,
+    "restaurant": 12.55,
+    "Local_purchasing": 138.06
+  },
+  {
+    "city": "Thiruvananthapuram",
+    "country": "India",
+    "Cost_of_Living_and_Rent_Index": 12.36,
+    "groceries": 18.14,
+    "restaurant": 11.93,
+    "Local_purchasing": 68.15
+  }
+]
