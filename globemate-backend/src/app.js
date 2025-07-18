@@ -8,7 +8,7 @@ const rateLimit = require('express-rate-limit');
 
 const weatherRoutes = require('./routes/weatherRoutes');
 const costRoutes    = require('./routes/costRoutes');
-
+const foodAIRoutes = require('./routes/foodAIRoutes');
 const app = express();
 
 app.use(helmet());
@@ -20,6 +20,7 @@ app.use(rateLimit({ windowMs: 60_000, max: 60 }));
 // Mount the weather API
 app.use('/api/weather', weatherRoutes);
 app.use('/api/cost-of-living', costRoutes);  
+app.use('/api/ai-foods', require('./routes/foodAIRoutes'));
 
 // 404 for anything else
 app.use((req, res) => {

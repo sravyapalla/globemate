@@ -15,7 +15,7 @@ exports.getCost = async (req, res) => {
   try {
     const city = (req.query.city || '').trim();
     if (!city) {
-      return res.status(400).json({ error: 'Missing city query parameter' });
+      return res.status(400).json({ error: 'Missing city ' });
     }
 
     // substring, case-insensitive match

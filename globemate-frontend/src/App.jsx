@@ -1,35 +1,47 @@
+// src/App.jsx
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+import WeatherCard from './components/WeatherCard'
+import CostOfLivingCard from './components/CostOfLivingCard'
+import FoodRecommendationsCard from './components/FoodRecommendationsCard'
 import './App.css'
 
-function App() {
-  const [count, setCount] = useState(0)
+export default function App() {
+  const [query, setQuery] = useState('')
+  const [city, setCity]   = useState('')
+
+  const onSubmit = e => {
+    e.preventDefault()
+    if (!query.trim()) return
+    setCity(query.trim())
+  }
 
   return (
-    <>
-      <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
+    <div className="max-w-xl mx-auto p-6">
+      <h1 className="text-4xl font-bold text-center mb-6">GlobeMate</h1>
+
+      <form onSubmit={onSubmit} className="flex mb-8">
+        <input
+          type="text"
+          placeholder="Enter city"
+          value={query}
+          onChange={e => setQuery(e.target.value)}
+          className="flex-1 border border-gray-300 rounded-l px-4 py-2 focus:outline-none"
+        />
+        <button
+          type="submit"
+          className="bg-white border border-gray-300 border-l-0 rounded-r px-6 text-lg"
+        >
+          Search
         </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
+      </form>
+
+      {city && (
+        <>
+          <WeatherCard city={city} />
+          <CostOfLivingCard city={city} />
+          <FoodRecommendationsCard city={city} />
+        </>
+      )}
+    </div>
   )
 }
-
-export default App
